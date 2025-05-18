@@ -1,3 +1,9 @@
+#my folders
+random_images/
+dataset/
+for_dataset1/
+for_dataset/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
