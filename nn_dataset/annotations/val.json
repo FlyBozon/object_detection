@@ -2,7 +2,7 @@
   "info": {
     "description": "Synthetic Dataset with Rotated Objects",
     "version": "1.0",
-    "date_created": "2025-05-18T13:43:02.293269"
+    "date_created": "2025-05-18T15:12:19.321309"
   },
   "categories": [
     {
@@ -22,19 +22,19 @@
     {
       "id": 961,
       "file_name": "image_0962.jpg",
-      "width": 512,
-      "height": 512,
+      "width": 1024,
+      "height": 1024,
       "annotations": [
         {
-          "class_id": 2,
-          "class_name": "miecz",
+          "class_id": 3,
+          "class_name": "srub",
           "bbox": [
-            63,
-            230,
-            260,
-            210
+            93,
+            711,
+            123,
+            184
           ],
-          "rotation_angle": 253
+          "rotation_angle": 31
         }
       ]
     },
@@ -45,59 +45,40 @@
       "height": 512,
       "annotations": [
         {
-          "class_id": 3,
-          "class_name": "srub",
+          "class_id": 1,
+          "class_name": "komb",
           "bbox": [
-            50,
-            63,
-            401,
-            431
+            421,
+            108,
+            54,
+            55
           ],
-          "rotation_angle": 215
+          "rotation_angle": 316
         }
       ]
     },
     {
       "id": 549,
       "file_name": "image_0550.jpg",
-      "width": 512,
-      "height": 512,
+      "width": 1024,
+      "height": 1024,
       "annotations": [
         {
           "class_id": 3,
           "class_name": "srub",
           "bbox": [
-            134,
-            43,
-            246,
-            241
+            210,
+            286,
+            149,
+            507
           ],
-          "rotation_angle": 312
+          "rotation_angle": 193
         }
       ]
     },
     {
       "id": 863,
       "file_name": "image_0864.jpg",
-      "width": 512,
-      "height": 512,
-      "annotations": [
-        {
-          "class_id": 2,
-          "class_name": "miecz",
-          "bbox": [
-            388,
-            265,
-            80,
-            61
-          ],
-          "rotation_angle": 282
-        }
-      ]
-    },
-    {
-      "id": 1004,
-      "file_name": "image_1005.jpg",
       "width": 1024,
       "height": 1024,
       "annotations": [
@@ -105,12 +86,31 @@
           "class_id": 2,
           "class_name": "miecz",
           "bbox": [
-            262,
-            682,
-            333,
-            304
+            356,
+            245,
+            216,
+            383
           ],
-          "rotation_angle": 58
+          "rotation_angle": 205
+        }
+      ]
+    },
+    {
+      "id": 1004,
+      "file_name": "image_1005.jpg",
+      "width": 512,
+      "height": 512,
+      "annotations": [
+        {
+          "class_id": 2,
+          "class_name": "miecz",
+          "bbox": [
+            204,
+            236,
+            35,
+            33
+          ],
+          "rotation_angle": 316
         }
       ]
     },
@@ -121,40 +121,21 @@
       "height": 1024,
       "annotations": [
         {
-          "class_id": 1,
-          "class_name": "komb",
+          "class_id": 2,
+          "class_name": "miecz",
           "bbox": [
-            294,
-            446,
-            335,
-            260
+            741,
+            108,
+            23,
+            432
           ],
-          "rotation_angle": 103
+          "rotation_angle": 0
         }
       ]
     },
     {
       "id": 409,
       "file_name": "image_0410.jpg",
-      "width": 512,
-      "height": 512,
-      "annotations": [
-        {
-          "class_id": 2,
-          "class_name": "miecz",
-          "bbox": [
-            276,
-            102,
-            157,
-            180
-          ],
-          "rotation_angle": 26
-        }
-      ]
-    },
-    {
-      "id": 521,
-      "file_name": "image_0522.jpg",
       "width": 1024,
       "height": 1024,
       "annotations": [
@@ -162,12 +143,31 @@
           "class_id": 1,
           "class_name": "komb",
           "bbox": [
-            13,
-            216,
-            274,
-            269
+            89,
+            198,
+            408,
+            423
           ],
-          "rotation_angle": 48
+          "rotation_angle": 314
+        }
+      ]
+    },
+    {
+      "id": 521,
+      "file_name": "image_0522.jpg",
+      "width": 512,
+      "height": 512,
+      "annotations": [
+        {
+          "class_id": 2,
+          "class_name": "miecz",
+          "bbox": [
+            196,
+            220,
+            20,
+            80
+          ],
+          "rotation_angle": 197
         }
       ]
     },
@@ -178,15 +178,15 @@
       "height": 512,
       "annotations": [
         {
-          "class_id": 2,
-          "class_name": "miecz",
+          "class_id": 3,
+          "class_name": "srub",
           "bbox": [
-            226,
-            31,
-            152,
-            138
+            57,
+            153,
+            215,
+            124
           ],
-          "rotation_angle": 331
+          "rotation_angle": 117
         }
       ]
     },
@@ -197,15 +197,15 @@
       "height": 512,
       "annotations": [
         {
-          "class_id": 3,
-          "class_name": "srub",
+          "class_id": 2,
+          "class_name": "miecz",
           "bbox": [
-            136,
-            129,
-            282,
-            258
+            88,
+            121,
+            52,
+            143
           ],
-          "rotation_angle": 237
+          "rotation_angle": 339
         }
       ]
     },
@@ -216,15 +216,15 @@
       "height": 512,
       "annotations": [
         {
-          "class_id": 3,
-          "class_name": "srub",
+          "class_id": 2,
+          "class_name": "miecz",
           "bbox": [
-            23,
-            49,
-            315,
-            414
+            22,
+            280,
+            188,
+            39
           ],
-          "rotation_angle": 349
+          "rotation_angle": 86
         }
       ]
     },
@@ -238,12 +238,12 @@
           "class_id": 1,
           "class_name": "komb",
           "bbox": [
-            159,
-            140,
-            285,
-            293
+            8,
+            239,
+            74,
+            102
           ],
-          "rotation_angle": 221
+          "rotation_angle": 36
         }
       ]
     },
@@ -254,15 +254,15 @@
       "height": 512,
       "annotations": [
         {
-          "class_id": 2,
-          "class_name": "miecz",
+          "class_id": 1,
+          "class_name": "komb",
           "bbox": [
-            179,
-            66,
-            325,
-            294
+            36,
+            68,
+            132,
+            277
           ],
-          "rotation_angle": 239
+          "rotation_angle": 16
         }
       ]
     },
@@ -273,40 +273,21 @@
       "height": 512,
       "annotations": [
         {
-          "class_id": 2,
-          "class_name": "miecz",
+          "class_id": 3,
+          "class_name": "srub",
           "bbox": [
-            229,
-            246,
-            141,
-            196
+            186,
+            274,
+            17,
+            47
           ],
-          "rotation_angle": 174
+          "rotation_angle": 185
         }
       ]
     },
     {
       "id": 885,
       "file_name": "image_0886.jpg",
-      "width": 224,
-      "height": 224,
-      "annotations": [
-        {
-          "class_id": 2,
-          "class_name": "miecz",
-          "bbox": [
-            38,
-            27,
-            111,
-            136
-          ],
-          "rotation_angle": 342
-        }
-      ]
-    },
-    {
-      "id": 1328,
-      "file_name": "image_1329.jpg",
       "width": 512,
       "height": 512,
       "annotations": [
@@ -314,12 +295,31 @@
           "class_id": 3,
           "class_name": "srub",
           "bbox": [
-            116,
-            31,
-            292,
-            312
+            69,
+            94,
+            221,
+            170
           ],
-          "rotation_angle": 324
+          "rotation_angle": 304
+        }
+      ]
+    },
+    {
+      "id": 1328,
+      "file_name": "image_1329.jpg",
+      "width": 224,
+      "height": 224,
+      "annotations": [
+        {
+          "class_id": 3,
+          "class_name": "srub",
+          "bbox": [
+            13,
+            103,
+            42,
+            80
+          ],
+          "rotation_angle": 204
         }
       ]
     },
@@ -330,34 +330,34 @@
       "height": 512,
       "annotations": [
         {
-          "class_id": 2,
-          "class_name": "miecz",
+          "class_id": 1,
+          "class_name": "komb",
           "bbox": [
-            82,
-            314,
-            101,
-            127
+            173,
+            442,
+            85,
+            40
           ],
-          "rotation_angle": 344
+          "rotation_angle": 104
         }
       ]
     },
     {
       "id": 816,
       "file_name": "image_0817.jpg",
-      "width": 512,
-      "height": 512,
+      "width": 1024,
+      "height": 1024,
       "annotations": [
         {
-          "class_id": 2,
-          "class_name": "miecz",
+          "class_id": 1,
+          "class_name": "komb",
           "bbox": [
-            147,
-            5,
-            87,
-            90
+            459,
+            118,
+            295,
+            245
           ],
-          "rotation_angle": 41
+          "rotation_angle": 307
         }
       ]
     },
@@ -371,12 +371,12 @@
           "class_id": 3,
           "class_name": "srub",
           "bbox": [
-            670,
-            686,
-            248,
-            282
+            780,
+            435,
+            166,
+            266
           ],
-          "rotation_angle": 153
+          "rotation_angle": 174
         }
       ]
     },
@@ -390,50 +390,50 @@
           "class_id": 1,
           "class_name": "komb",
           "bbox": [
-            18,
-            1,
-            197,
-            195
+            75,
+            113,
+            39,
+            35
           ],
-          "rotation_angle": 226
+          "rotation_angle": 229
         }
       ]
     },
     {
       "id": 456,
       "file_name": "image_0457.jpg",
-      "width": 512,
-      "height": 512,
+      "width": 1024,
+      "height": 1024,
       "annotations": [
         {
-          "class_id": 1,
-          "class_name": "komb",
+          "class_id": 2,
+          "class_name": "miecz",
           "bbox": [
-            143,
-            169,
-            144,
-            164
+            559,
+            576,
+            270,
+            251
           ],
-          "rotation_angle": 207
+          "rotation_angle": 48
         }
       ]
     },
     {
       "id": 1375,
       "file_name": "image_1376.jpg",
-      "width": 224,
-      "height": 224,
+      "width": 1024,
+      "height": 1024,
       "annotations": [
         {
-          "class_id": 3,
-          "class_name": "srub",
+          "class_id": 2,
+          "class_name": "miecz",
           "bbox": [
-            105,
-            130,
-            47,
-            63
+            387,
+            193,
+            234,
+            386
           ],
-          "rotation_angle": 190
+          "rotation_angle": 27
         }
       ]
     },
@@ -447,31 +447,31 @@
           "class_id": 2,
           "class_name": "miecz",
           "bbox": [
-            410,
-            599,
-            256,
-            191
+            136,
+            473,
+            94,
+            109
           ],
-          "rotation_angle": 174
+          "rotation_angle": 308
         }
       ]
     },
     {
       "id": 716,
       "file_name": "image_0717.jpg",
-      "width": 1024,
-      "height": 1024,
+      "width": 224,
+      "height": 224,
       "annotations": [
         {
-          "class_id": 3,
-          "class_name": "srub",
+          "class_id": 1,
+          "class_name": "komb",
           "bbox": [
-            317,
-            296,
-            161,
-            137
+            3,
+            64,
+            90,
+            67
           ],
-          "rotation_angle": 113
+          "rotation_angle": 301
         }
       ]
     },
@@ -485,12 +485,12 @@
           "class_id": 2,
           "class_name": "miecz",
           "bbox": [
-            32,
-            135,
-            651,
-            882
+            677,
+            766,
+            53,
+            20
           ],
-          "rotation_angle": 352
+          "rotation_angle": 296
         }
       ]
     },
@@ -504,126 +504,126 @@
           "class_id": 2,
           "class_name": "miecz",
           "bbox": [
-            189,
-            75,
-            166,
-            172
+            238,
+            148,
+            43,
+            136
           ],
-          "rotation_angle": 320
+          "rotation_angle": 165
         }
       ]
     },
     {
       "id": 455,
       "file_name": "image_0456.jpg",
-      "width": 224,
-      "height": 224,
+      "width": 512,
+      "height": 512,
       "annotations": [
         {
-          "class_id": 2,
-          "class_name": "miecz",
+          "class_id": 3,
+          "class_name": "srub",
           "bbox": [
-            53,
-            111,
-            92,
-            97
+            257,
+            302,
+            159,
+            56
           ],
-          "rotation_angle": 217
+          "rotation_angle": 285
         }
       ]
     },
     {
       "id": 963,
       "file_name": "image_0964.jpg",
-      "width": 512,
-      "height": 512,
+      "width": 1024,
+      "height": 1024,
       "annotations": [
         {
           "class_id": 2,
           "class_name": "miecz",
           "bbox": [
-            9,
-            299,
-            151,
-            101
+            74,
+            109,
+            194,
+            214
           ],
-          "rotation_angle": 270
+          "rotation_angle": 212
         }
       ]
     },
     {
       "id": 79,
       "file_name": "image_0080.jpg",
-      "width": 1024,
-      "height": 1024,
+      "width": 512,
+      "height": 512,
       "annotations": [
         {
           "class_id": 2,
           "class_name": "miecz",
           "bbox": [
-            471,
-            225,
-            376,
-            474
+            12,
+            284,
+            174,
+            36
           ],
-          "rotation_angle": 345
+          "rotation_angle": 89
         }
       ]
     },
     {
       "id": 783,
       "file_name": "image_0784.jpg",
-      "width": 512,
-      "height": 512,
+      "width": 224,
+      "height": 224,
       "annotations": [
         {
           "class_id": 1,
           "class_name": "komb",
           "bbox": [
-            49,
-            220,
-            207,
-            281
+            166,
+            50,
+            39,
+            22
           ],
-          "rotation_angle": 172
+          "rotation_angle": 297
         }
       ]
     },
     {
       "id": 221,
       "file_name": "image_0222.jpg",
-      "width": 1024,
-      "height": 1024,
+      "width": 512,
+      "height": 512,
       "annotations": [
         {
           "class_id": 3,
           "class_name": "srub",
           "bbox": [
-            196,
-            499,
-            148,
-            182
+            13,
+            126,
+            117,
+            77
           ],
-          "rotation_angle": 162
+          "rotation_angle": 239
         }
       ]
     },
     {
       "id": 1406,
       "file_name": "image_1407.jpg",
-      "width": 512,
-      "height": 512,
+      "width": 1024,
+      "height": 1024,
       "annotations": [
         {
-          "class_id": 2,
-          "class_name": "miecz",
+          "class_id": 1,
+          "class_name": "komb",
           "bbox": [
-            221,
-            126,
-            37,
-            44
+            117,
+            660,
+            102,
+            169
           ],
-          "rotation_angle": 292
+          "rotation_angle": 24
         }
       ]
     },
@@ -637,18 +637,37 @@
           "class_id": 2,
           "class_name": "miecz",
           "bbox": [
-            10,
-            188,
-            73,
-            79
+            34,
+            290,
+            35,
+            131
           ],
-          "rotation_angle": 237
+          "rotation_angle": 11
         }
       ]
     },
     {
       "id": 508,
       "file_name": "image_0509.jpg",
+      "width": 512,
+      "height": 512,
+      "annotations": [
+        {
+          "class_id": 1,
+          "class_name": "komb",
+          "bbox": [
+            419,
+            77,
+            36,
+            91
+          ],
+          "rotation_angle": 11
+        }
+      ]
+    },
+    {
+      "id": 843,
+      "file_name": "image_0844.jpg",
       "width": 1024,
       "height": 1024,
       "annotations": [
@@ -656,18 +675,37 @@
           "class_id": 1,
           "class_name": "komb",
           "bbox": [
-            61,
-            183,
-            582,
-            696
+            14,
+            456,
+            203,
+            175
           ],
-          "rotation_angle": 201
+          "rotation_angle": 50
         }
       ]
     },
     {
-      "id": 843,
-      "file_name": "image_0844.jpg",
+      "id": 680,
+      "file_name": "image_0681.jpg",
+      "width": 512,
+      "height": 512,
+      "annotations": [
+        {
+          "class_id": 2,
+          "class_name": "miecz",
+          "bbox": [
+            193,
+            164,
+            164,
+            177
+          ],
+          "rotation_angle": 137
+        }
+      ]
+    },
+    {
+      "id": 367,
+      "file_name": "image_0368.jpg",
       "width": 512,
       "height": 512,
       "annotations": [
@@ -675,50 +713,12 @@
           "class_id": 3,
           "class_name": "srub",
           "bbox": [
-            134,
-            114,
-            233,
-            196
+            147,
+            170,
+            159,
+            226
           ],
-          "rotation_angle": 248
-        }
-      ]
-    },
-    {
-      "id": 680,
-      "file_name": "image_0681.jpg",
-      "width": 1024,
-      "height": 1024,
-      "annotations": [
-        {
-          "class_id": 2,
-          "class_name": "miecz",
-          "bbox": [
-            152,
-            446,
-            582,
-            487
-          ],
-          "rotation_angle": 249
-        }
-      ]
-    },
-    {
-      "id": 367,
-      "file_name": "image_0368.jpg",
-      "width": 1024,
-      "height": 1024,
-      "annotations": [
-        {
-          "class_id": 3,
-          "class_name": "srub",
-          "bbox": [
-            168,
-            30,
-            784,
-            900
-          ],
-          "rotation_angle": 334
+          "rotation_angle": 192
         }
       ]
     },
@@ -732,12 +732,12 @@
           "class_id": 3,
           "class_name": "srub",
           "bbox": [
-            23,
-            167,
-            448,
-            302
+            157,
+            46,
+            102,
+            152
           ],
-          "rotation_angle": 89
+          "rotation_angle": 326
         }
       ]
     },
@@ -751,12 +751,12 @@
           "class_id": 2,
           "class_name": "miecz",
           "bbox": [
-            165,
-            61,
-            207,
-            236
+            227,
+            280,
+            135,
+            100
           ],
-          "rotation_angle": 27
+          "rotation_angle": 234
         }
       ]
     },
@@ -770,12 +770,12 @@
           "class_id": 1,
           "class_name": "komb",
           "bbox": [
-            28,
-            58,
-            304,
-            319
+            259,
+            154,
+            188,
+            85
           ],
-          "rotation_angle": 322
+          "rotation_angle": 77
         }
       ]
     },
@@ -786,15 +786,15 @@
       "height": 512,
       "annotations": [
         {
-          "class_id": 1,
-          "class_name": "komb",
+          "class_id": 2,
+          "class_name": "miecz",
           "bbox": [
             63,
-            112,
-            399,
-            396
+            5,
+            60,
+            222
           ],
-          "rotation_angle": 226
+          "rotation_angle": 351
         }
       ]
     },
@@ -808,18 +808,37 @@
           "class_id": 3,
           "class_name": "srub",
           "bbox": [
-            74,
-            49,
-            420,
-            435
+            316,
+            155,
+            54,
+            325
           ],
-          "rotation_angle": 140
+          "rotation_angle": 0
         }
       ]
     },
     {
       "id": 316,
       "file_name": "image_0317.jpg",
+      "width": 512,
+      "height": 512,
+      "annotations": [
+        {
+          "class_id": 1,
+          "class_name": "komb",
+          "bbox": [
+            184,
+            232,
+            84,
+            238
+          ],
+          "rotation_angle": 5
+        }
+      ]
+    },
+    {
+      "id": 1170,
+      "file_name": "image_1171.jpg",
       "width": 1024,
       "height": 1024,
       "annotations": [
@@ -827,50 +846,31 @@
           "class_id": 2,
           "class_name": "miecz",
           "bbox": [
-            328,
-            490,
-            183,
-            154
+            104,
+            595,
+            93,
+            77
           ],
-          "rotation_angle": 68
-        }
-      ]
-    },
-    {
-      "id": 1170,
-      "file_name": "image_1171.jpg",
-      "width": 512,
-      "height": 512,
-      "annotations": [
-        {
-          "class_id": 2,
-          "class_name": "miecz",
-          "bbox": [
-            24,
-            125,
-            258,
-            299
-          ],
-          "rotation_angle": 25
+          "rotation_angle": 220
         }
       ]
     },
     {
       "id": 724,
       "file_name": "image_0725.jpg",
-      "width": 512,
-      "height": 512,
+      "width": 224,
+      "height": 224,
       "annotations": [
         {
           "class_id": 3,
           "class_name": "srub",
           "bbox": [
-            168,
-            20,
-            247,
-            309
+            17,
+            165,
+            72,
+            19
           ],
-          "rotation_angle": 16
+          "rotation_angle": 262
         }
       ]
     },
@@ -884,31 +884,31 @@
           "class_id": 3,
           "class_name": "srub",
           "bbox": [
-            24,
-            221,
-            183,
-            194
+            237,
+            528,
+            414,
+            235
           ],
-          "rotation_angle": 323
+          "rotation_angle": 297
         }
       ]
     },
     {
       "id": 1181,
       "file_name": "image_1182.jpg",
-      "width": 512,
-      "height": 512,
+      "width": 1024,
+      "height": 1024,
       "annotations": [
         {
-          "class_id": 2,
-          "class_name": "miecz",
+          "class_id": 3,
+          "class_name": "srub",
           "bbox": [
-            23,
-            15,
-            268,
-            266
+            613,
+            419,
+            180,
+            119
           ],
-          "rotation_angle": 46
+          "rotation_angle": 277
         }
       ]
     },
@@ -919,34 +919,34 @@
       "height": 512,
       "annotations": [
         {
-          "class_id": 3,
-          "class_name": "srub",
+          "class_id": 2,
+          "class_name": "miecz",
           "bbox": [
-            355,
-            221,
-            78,
-            78
+            92,
+            232,
+            19,
+            109
           ],
-          "rotation_angle": 134
+          "rotation_angle": 175
         }
       ]
     },
     {
       "id": 732,
       "file_name": "image_0733.jpg",
-      "width": 512,
-      "height": 512,
+      "width": 1024,
+      "height": 1024,
       "annotations": [
         {
-          "class_id": 1,
-          "class_name": "komb",
+          "class_id": 2,
+          "class_name": "miecz",
           "bbox": [
-            173,
-            109,
-            249,
-            331
+            820,
+            200,
+            76,
+            245
           ],
-          "rotation_angle": 350
+          "rotation_angle": 196
         }
       ]
     },
@@ -960,31 +960,31 @@
           "class_id": 3,
           "class_name": "srub",
           "bbox": [
-            72,
-            419,
-            146,
-            104
+            509,
+            669,
+            61,
+            77
           ],
-          "rotation_angle": 275
+          "rotation_angle": 143
         }
       ]
     },
     {
       "id": 746,
       "file_name": "image_0747.jpg",
-      "width": 1024,
-      "height": 1024,
+      "width": 512,
+      "height": 512,
       "annotations": [
         {
           "class_id": 3,
           "class_name": "srub",
           "bbox": [
-            324,
-            263,
-            623,
-            460
+            0,
+            105,
+            247,
+            77
           ],
-          "rotation_angle": 262
+          "rotation_angle": 77
         }
       ]
     },
@@ -998,12 +998,12 @@
           "class_id": 3,
           "class_name": "srub",
           "bbox": [
-            380,
-            43,
-            52,
-            57
+            10,
+            151,
+            95,
+            38
           ],
-          "rotation_angle": 148
+          "rotation_angle": 294
         }
       ]
     },
@@ -1014,34 +1014,34 @@
       "height": 1024,
       "annotations": [
         {
-          "class_id": 1,
-          "class_name": "komb",
+          "class_id": 2,
+          "class_name": "miecz",
           "bbox": [
-            423,
-            83,
-            500,
-            507
+            382,
+            402,
+            62,
+            36
           ],
-          "rotation_angle": 223
+          "rotation_angle": 306
         }
       ]
     },
     {
       "id": 261,
       "file_name": "image_0262.jpg",
-      "width": 512,
-      "height": 512,
+      "width": 1024,
+      "height": 1024,
       "annotations": [
         {
-          "class_id": 1,
-          "class_name": "komb",
+          "class_id": 2,
+          "class_name": "miecz",
           "bbox": [
-            306,
-            11,
-            106,
-            152
+            815,
+            172,
+            66,
+            203
           ],
-          "rotation_angle": 356
+          "rotation_angle": 352
         }
       ]
     },
@@ -1052,78 +1052,21 @@
       "height": 1024,
       "annotations": [
         {
-          "class_id": 1,
-          "class_name": "komb",
+          "class_id": 2,
+          "class_name": "miecz",
           "bbox": [
-            120,
-            234,
-            690,
-            681
+            636,
+            63,
+            27,
+            47
           ],
-          "rotation_angle": 133
+          "rotation_angle": 28
         }
       ]
     },
     {
       "id": 303,
       "file_name": "image_0304.jpg",
-      "width": 1024,
-      "height": 1024,
-      "annotations": [
-        {
-          "class_id": 2,
-          "class_name": "miecz",
-          "bbox": [
-            399,
-            226,
-            511,
-            473
-          ],
-          "rotation_angle": 56
-        }
-      ]
-    },
-    {
-      "id": 1102,
-      "file_name": "image_1103.jpg",
-      "width": 512,
-      "height": 512,
-      "annotations": [
-        {
-          "class_id": 2,
-          "class_name": "miecz",
-          "bbox": [
-            189,
-            131,
-            213,
-            275
-          ],
-          "rotation_angle": 167
-        }
-      ]
-    },
-    {
-      "id": 73,
-      "file_name": "image_0074.jpg",
-      "width": 512,
-      "height": 512,
-      "annotations": [
-        {
-          "class_id": 2,
-          "class_name": "miecz",
-          "bbox": [
-            102,
-            47,
-            339,
-            284
-          ],
-          "rotation_angle": 111
-        }
-      ]
-    },
-    {
-      "id": 305,
-      "file_name": "image_0306.jpg",
       "width": 224,
       "height": 224,
       "annotations": [
@@ -1131,37 +1074,18 @@
           "class_id": 2,
           "class_name": "miecz",
           "bbox": [
-            40,
-            69,
-            162,
-            133
+            111,
+            76,
+            66,
+            20
           ],
-          "rotation_angle": 289
+          "rotation_angle": 77
         }
       ]
     },
     {
-      "id": 1210,
-      "file_name": "image_1211.jpg",
-      "width": 512,
-      "height": 512,
-      "annotations": [
-        {
-          "class_id": 3,
-          "class_name": "srub",
-          "bbox": [
-            68,
-            199,
-            153,
-            168
-          ],
-          "rotation_angle": 148
-        }
-      ]
-    },
-    {
-      "id": 1267,
-      "file_name": "image_1268.jpg",
+      "id": 1102,
+      "file_name": "image_1103.jpg",
       "width": 1024,
       "height": 1024,
       "annotations": [
@@ -1169,18 +1093,75 @@
           "class_id": 1,
           "class_name": "komb",
           "bbox": [
-            293,
-            220,
-            542,
-            727
+            565,
+            427,
+            138,
+            283
           ],
-          "rotation_angle": 9
+          "rotation_angle": 163
         }
       ]
     },
     {
-      "id": 1114,
-      "file_name": "image_1115.jpg",
+      "id": 73,
+      "file_name": "image_0074.jpg",
+      "width": 1024,
+      "height": 1024,
+      "annotations": [
+        {
+          "class_id": 1,
+          "class_name": "komb",
+          "bbox": [
+            399,
+            89,
+            324,
+            376
+          ],
+          "rotation_angle": 220
+        }
+      ]
+    },
+    {
+      "id": 305,
+      "file_name": "image_0306.jpg",
+      "width": 512,
+      "height": 512,
+      "annotations": [
+        {
+          "class_id": 1,
+          "class_name": "komb",
+          "bbox": [
+            50,
+            100,
+            139,
+            134
+          ],
+          "rotation_angle": 48
+        }
+      ]
+    },
+    {
+      "id": 1210,
+      "file_name": "image_1211.jpg",
+      "width": 1024,
+      "height": 1024,
+      "annotations": [
+        {
+          "class_id": 3,
+          "class_name": "srub",
+          "bbox": [
+            140,
+            487,
+            468,
+            266
+          ],
+          "rotation_angle": 116
+        }
+      ]
+    },
+    {
+      "id": 1267,
+      "file_name": "image_1268.jpg",
       "width": 512,
       "height": 512,
       "annotations": [
@@ -1188,12 +1169,31 @@
           "class_id": 3,
           "class_name": "srub",
           "bbox": [
-            284,
-            193,
-            142,
-            213
+            217,
+            184,
+            105,
+            271
           ],
-          "rotation_angle": 180
+          "rotation_angle": 357
+        }
+      ]
+    },
+    {
+      "id": 1114,
+      "file_name": "image_1115.jpg",
+      "width": 1024,
+      "height": 1024,
+      "annotations": [
+        {
+          "class_id": 3,
+          "class_name": "srub",
+          "bbox": [
+            274,
+            644,
+            489,
+            193
+          ],
+          "rotation_angle": 260
         }
       ]
     },
@@ -1207,12 +1207,12 @@
           "class_id": 2,
           "class_name": "miecz",
           "bbox": [
-            219,
-            221,
-            222,
-            217
+            245,
+            284,
+            168,
+            89
           ],
-          "rotation_angle": 221
+          "rotation_angle": 101
         }
       ]
     },
@@ -1226,94 +1226,132 @@
           "class_id": 2,
           "class_name": "miecz",
           "bbox": [
-            204,
-            31,
-            748,
-            615
+            250,
+            486,
+            34,
+            187
           ],
-          "rotation_angle": 71
+          "rotation_angle": 352
         }
       ]
     },
     {
       "id": 1275,
       "file_name": "image_1276.jpg",
-      "width": 224,
-      "height": 224,
+      "width": 512,
+      "height": 512,
       "annotations": [
         {
-          "class_id": 2,
-          "class_name": "miecz",
+          "class_id": 1,
+          "class_name": "komb",
           "bbox": [
-            1,
-            78,
-            61,
-            83
+            106,
+            324,
+            94,
+            129
           ],
-          "rotation_angle": 266
+          "rotation_angle": 213
         }
       ]
     },
     {
       "id": 536,
       "file_name": "image_0537.jpg",
-      "width": 512,
-      "height": 512,
+      "width": 224,
+      "height": 224,
       "annotations": [
         {
           "class_id": 3,
           "class_name": "srub",
           "bbox": [
-            464,
-            32,
-            32,
-            34
+            120,
+            63,
+            37,
+            101
           ],
-          "rotation_angle": 37
+          "rotation_angle": 179
         }
       ]
     },
     {
       "id": 267,
       "file_name": "image_0268.jpg",
-      "width": 512,
-      "height": 512,
+      "width": 224,
+      "height": 224,
       "annotations": [
         {
           "class_id": 3,
           "class_name": "srub",
           "bbox": [
-            67,
-            183,
-            32,
-            36
+            27,
+            47,
+            38,
+            105
           ],
-          "rotation_angle": 329
+          "rotation_angle": 354
         }
       ]
     },
     {
       "id": 683,
       "file_name": "image_0684.jpg",
-      "width": 224,
-      "height": 224,
+      "width": 512,
+      "height": 512,
       "annotations": [
         {
           "class_id": 1,
           "class_name": "komb",
           "bbox": [
-            85,
-            65,
-            95,
-            100
+            362,
+            246,
+            108,
+            70
           ],
-          "rotation_angle": 323
+          "rotation_angle": 243
         }
       ]
     },
     {
       "id": 7,
       "file_name": "image_0008.jpg",
+      "width": 224,
+      "height": 224,
+      "annotations": [
+        {
+          "class_id": 2,
+          "class_name": "miecz",
+          "bbox": [
+            103,
+            79,
+            12,
+            10
+          ],
+          "rotation_angle": 52
+        }
+      ]
+    },
+    {
+      "id": 90,
+      "file_name": "image_0091.jpg",
+      "width": 224,
+      "height": 224,
+      "annotations": [
+        {
+          "class_id": 2,
+          "class_name": "miecz",
+          "bbox": [
+            76,
+            91,
+            12,
+            23
+          ],
+          "rotation_angle": 336
+        }
+      ]
+    },
+    {
+      "id": 566,
+      "file_name": "image_0567.jpg",
       "width": 512,
       "height": 512,
       "annotations": [
@@ -1321,50 +1359,12 @@
           "class_id": 1,
           "class_name": "komb",
           "bbox": [
-            341,
-            103,
-            95,
-            74
+            67,
+            113,
+            148,
+            132
           ],
-          "rotation_angle": 256
-        }
-      ]
-    },
-    {
-      "id": 90,
-      "file_name": "image_0091.jpg",
-      "width": 512,
-      "height": 512,
-      "annotations": [
-        {
-          "class_id": 2,
-          "class_name": "miecz",
-          "bbox": [
-            342,
-            318,
-            26,
-            29
-          ],
-          "rotation_angle": 328
-        }
-      ]
-    },
-    {
-      "id": 566,
-      "file_name": "image_0567.jpg",
-      "width": 1024,
-      "height": 1024,
-      "annotations": [
-        {
-          "class_id": 3,
-          "class_name": "srub",
-          "bbox": [
-            282,
-            242,
-            454,
-            319
-          ],
-          "rotation_angle": 274
+          "rotation_angle": 231
         }
       ]
     },
@@ -1375,53 +1375,53 @@
       "height": 512,
       "annotations": [
         {
-          "class_id": 3,
-          "class_name": "srub",
+          "class_id": 2,
+          "class_name": "miecz",
           "bbox": [
-            16,
-            44,
-            411,
-            361
+            167,
+            126,
+            180,
+            157
           ],
-          "rotation_angle": 117
+          "rotation_angle": 312
         }
       ]
     },
     {
       "id": 1398,
       "file_name": "image_1399.jpg",
-      "width": 512,
-      "height": 512,
+      "width": 1024,
+      "height": 1024,
       "annotations": [
         {
-          "class_id": 1,
-          "class_name": "komb",
+          "class_id": 3,
+          "class_name": "srub",
           "bbox": [
-            100,
-            76,
-            220,
-            313
+            416,
+            640,
+            133,
+            146
           ],
-          "rotation_angle": 356
+          "rotation_angle": 43
         }
       ]
     },
     {
       "id": 104,
       "file_name": "image_0105.jpg",
-      "width": 512,
-      "height": 512,
+      "width": 1024,
+      "height": 1024,
       "annotations": [
         {
           "class_id": 1,
           "class_name": "komb",
           "bbox": [
-            210,
-            32,
-            253,
-            287
+            356,
+            505,
+            221,
+            387
           ],
-          "rotation_angle": 332
+          "rotation_angle": 22
         }
       ]
     },
@@ -1435,37 +1435,56 @@
           "class_id": 3,
           "class_name": "srub",
           "bbox": [
-            94,
-            286,
-            32,
-            25
+            275,
+            200,
+            50,
+            167
           ],
-          "rotation_angle": 283
+          "rotation_angle": 12
         }
       ]
     },
     {
       "id": 1269,
       "file_name": "image_1270.jpg",
-      "width": 1024,
-      "height": 1024,
+      "width": 512,
+      "height": 512,
       "annotations": [
         {
-          "class_id": 3,
-          "class_name": "srub",
+          "class_id": 1,
+          "class_name": "komb",
           "bbox": [
-            154,
-            414,
-            328,
-            239
+            205,
+            72,
+            180,
+            277
           ],
-          "rotation_angle": 83
+          "rotation_angle": 209
         }
       ]
     },
     {
       "id": 1035,
       "file_name": "image_1036.jpg",
+      "width": 1024,
+      "height": 1024,
+      "annotations": [
+        {
+          "class_id": 1,
+          "class_name": "komb",
+          "bbox": [
+            728,
+            722,
+            101,
+            273
+          ],
+          "rotation_angle": 351
+        }
+      ]
+    },
+    {
+      "id": 540,
+      "file_name": "image_0541.jpg",
       "width": 512,
       "height": 512,
       "annotations": [
@@ -1473,50 +1492,31 @@
           "class_id": 3,
           "class_name": "srub",
           "bbox": [
-            103,
-            213,
-            189,
-            227
+            136,
+            28,
+            183,
+            244
           ],
-          "rotation_angle": 21
-        }
-      ]
-    },
-    {
-      "id": 540,
-      "file_name": "image_0541.jpg",
-      "width": 1024,
-      "height": 1024,
-      "annotations": [
-        {
-          "class_id": 2,
-          "class_name": "miecz",
-          "bbox": [
-            347,
-            95,
-            449,
-            566
-          ],
-          "rotation_angle": 345
+          "rotation_angle": 16
         }
       ]
     },
     {
       "id": 416,
       "file_name": "image_0417.jpg",
-      "width": 512,
-      "height": 512,
+      "width": 1024,
+      "height": 1024,
       "annotations": [
         {
-          "class_id": 2,
-          "class_name": "miecz",
+          "class_id": 1,
+          "class_name": "komb",
           "bbox": [
-            187,
-            224,
-            250,
-            233
+            452,
+            590,
+            200,
+            251
           ],
-          "rotation_angle": 305
+          "rotation_angle": 327
         }
       ]
     },
@@ -1527,15 +1527,15 @@
       "height": 512,
       "annotations": [
         {
-          "class_id": 1,
-          "class_name": "komb",
+          "class_id": 3,
+          "class_name": "srub",
           "bbox": [
-            117,
-            190,
-            237,
-            322
+            0,
+            194,
+            265,
+            139
           ],
-          "rotation_angle": 352
+          "rotation_angle": 290
         }
       ]
     },
@@ -1546,72 +1546,72 @@
       "height": 512,
       "annotations": [
         {
-          "class_id": 2,
-          "class_name": "miecz",
+          "class_id": 3,
+          "class_name": "srub",
           "bbox": [
-            149,
-            212,
-            35,
-            36
+            66,
+            328,
+            226,
+            46
           ],
-          "rotation_angle": 321
+          "rotation_angle": 96
         }
       ]
     },
     {
       "id": 577,
       "file_name": "image_0578.jpg",
-      "width": 1024,
-      "height": 1024,
+      "width": 512,
+      "height": 512,
       "annotations": [
         {
-          "class_id": 2,
-          "class_name": "miecz",
+          "class_id": 1,
+          "class_name": "komb",
           "bbox": [
-            171,
-            92,
-            559,
-            509
+            229,
+            215,
+            121,
+            203
           ],
-          "rotation_angle": 122
+          "rotation_angle": 30
         }
       ]
     },
     {
       "id": 557,
       "file_name": "image_0558.jpg",
-      "width": 1024,
-      "height": 1024,
+      "width": 224,
+      "height": 224,
       "annotations": [
         {
-          "class_id": 3,
-          "class_name": "srub",
+          "class_id": 2,
+          "class_name": "miecz",
           "bbox": [
-            80,
-            515,
-            457,
-            451
+            27,
+            104,
+            48,
+            59
           ],
-          "rotation_angle": 227
+          "rotation_angle": 217
         }
       ]
     },
     {
       "id": 1402,
       "file_name": "image_1403.jpg",
-      "width": 1024,
-      "height": 1024,
+      "width": 224,
+      "height": 224,
       "annotations": [
         {
-          "class_id": 1,
-          "class_name": "komb",
+          "class_id": 2,
+          "class_name": "miecz",
           "bbox": [
-            31,
-            289,
-            739,
-            607
+            62,
+            37,
+            68,
+            59
           ],
-          "rotation_angle": 251
+          "rotation_angle": 312
         }
       ]
     },
@@ -1622,34 +1622,34 @@
       "height": 512,
       "annotations": [
         {
-          "class_id": 3,
-          "class_name": "srub",
+          "class_id": 2,
+          "class_name": "miecz",
           "bbox": [
-            174,
-            75,
-            53,
-            52
+            74,
+            263,
+            150,
+            112
           ],
-          "rotation_angle": 314
+          "rotation_angle": 56
         }
       ]
     },
     {
       "id": 236,
       "file_name": "image_0237.jpg",
-      "width": 512,
-      "height": 512,
+      "width": 1024,
+      "height": 1024,
       "annotations": [
         {
           "class_id": 1,
           "class_name": "komb",
           "bbox": [
-            286,
-            218,
-            142,
-            97
+            86,
+            423,
+            118,
+            158
           ],
-          "rotation_angle": 268
+          "rotation_angle": 144
         }
       ]
     },
@@ -1663,12 +1663,12 @@
           "class_id": 3,
           "class_name": "srub",
           "bbox": [
-            601,
-            842,
-            85,
-            74
+            193,
+            245,
+            263,
+            368
           ],
-          "rotation_angle": 116
+          "rotation_angle": 224
         }
       ]
     },
@@ -1679,135 +1679,40 @@
       "height": 512,
       "annotations": [
         {
-          "class_id": 2,
-          "class_name": "miecz",
+          "class_id": 3,
+          "class_name": "srub",
           "bbox": [
-            64,
-            232,
-            351,
-            261
+            81,
+            156,
+            227,
+            113
           ],
-          "rotation_angle": 99
+          "rotation_angle": 245
         }
       ]
     },
     {
       "id": 212,
       "file_name": "image_0213.jpg",
-      "width": 1024,
-      "height": 1024,
+      "width": 512,
+      "height": 512,
       "annotations": [
         {
-          "class_id": 1,
-          "class_name": "komb",
+          "class_id": 3,
+          "class_name": "srub",
           "bbox": [
-            201,
-            170,
-            468,
-            455
+            373,
+            392,
+            87,
+            58
           ],
-          "rotation_angle": 49
+          "rotation_angle": 256
         }
       ]
     },
     {
       "id": 613,
       "file_name": "image_0614.jpg",
-      "width": 1024,
-      "height": 1024,
-      "annotations": [
-        {
-          "class_id": 1,
-          "class_name": "komb",
-          "bbox": [
-            8,
-            364,
-            805,
-            619
-          ],
-          "rotation_angle": 282
-        }
-      ]
-    },
-    {
-      "id": 16,
-      "file_name": "image_0017.jpg",
-      "width": 512,
-      "height": 512,
-      "annotations": [
-        {
-          "class_id": 2,
-          "class_name": "miecz",
-          "bbox": [
-            112,
-            192,
-            272,
-            253
-          ],
-          "rotation_angle": 305
-        }
-      ]
-    },
-    {
-      "id": 1367,
-      "file_name": "image_1368.jpg",
-      "width": 224,
-      "height": 224,
-      "annotations": [
-        {
-          "class_id": 3,
-          "class_name": "srub",
-          "bbox": [
-            35,
-            42,
-            81,
-            74
-          ],
-          "rotation_angle": 57
-        }
-      ]
-    },
-    {
-      "id": 619,
-      "file_name": "image_0620.jpg",
-      "width": 224,
-      "height": 224,
-      "annotations": [
-        {
-          "class_id": 1,
-          "class_name": "komb",
-          "bbox": [
-            55,
-            9,
-            160,
-            186
-          ],
-          "rotation_angle": 25
-        }
-      ]
-    },
-    {
-      "id": 1240,
-      "file_name": "image_1241.jpg",
-      "width": 224,
-      "height": 224,
-      "annotations": [
-        {
-          "class_id": 2,
-          "class_name": "miecz",
-          "bbox": [
-            56,
-            49,
-            54,
-            48
-          ],
-          "rotation_angle": 29
-        }
-      ]
-    },
-    {
-      "id": 1290,
-      "file_name": "image_1291.jpg",
       "width": 512,
       "height": 512,
       "annotations": [
@@ -1815,75 +1720,151 @@
           "class_id": 1,
           "class_name": "komb",
           "bbox": [
-            133,
-            20,
-            323,
-            443
-          ],
-          "rotation_angle": 173
-        }
-      ]
-    },
-    {
-      "id": 583,
-      "file_name": "image_0584.jpg",
-      "width": 1024,
-      "height": 1024,
-      "annotations": [
-        {
-          "class_id": 2,
-          "class_name": "miecz",
-          "bbox": [
-            463,
-            53,
-            322,
-            385
-          ],
-          "rotation_angle": 201
-        }
-      ]
-    },
-    {
-      "id": 756,
-      "file_name": "image_0757.jpg",
-      "width": 512,
-      "height": 512,
-      "annotations": [
-        {
-          "class_id": 2,
-          "class_name": "miecz",
-          "bbox": [
-            152,
-            96,
-            166,
+            118,
+            90,
+            245,
             188
-          ],
-          "rotation_angle": 208
-        }
-      ]
-    },
-    {
-      "id": 500,
-      "file_name": "image_0501.jpg",
-      "width": 512,
-      "height": 512,
-      "annotations": [
-        {
-          "class_id": 1,
-          "class_name": "komb",
-          "bbox": [
-            145,
-            20,
-            213,
-            194
           ],
           "rotation_angle": 238
         }
       ]
     },
     {
-      "id": 1136,
-      "file_name": "image_1137.jpg",
+      "id": 16,
+      "file_name": "image_0017.jpg",
+      "width": 224,
+      "height": 224,
+      "annotations": [
+        {
+          "class_id": 2,
+          "class_name": "miecz",
+          "bbox": [
+            62,
+            96,
+            87,
+            66
+          ],
+          "rotation_angle": 308
+        }
+      ]
+    },
+    {
+      "id": 1367,
+      "file_name": "image_1368.jpg",
+      "width": 1024,
+      "height": 1024,
+      "annotations": [
+        {
+          "class_id": 2,
+          "class_name": "miecz",
+          "bbox": [
+            211,
+            149,
+            61,
+            379
+          ],
+          "rotation_angle": 354
+        }
+      ]
+    },
+    {
+      "id": 619,
+      "file_name": "image_0620.jpg",
+      "width": 512,
+      "height": 512,
+      "annotations": [
+        {
+          "class_id": 2,
+          "class_name": "miecz",
+          "bbox": [
+            74,
+            481,
+            28,
+            11
+          ],
+          "rotation_angle": 287
+        }
+      ]
+    },
+    {
+      "id": 1240,
+      "file_name": "image_1241.jpg",
+      "width": 512,
+      "height": 512,
+      "annotations": [
+        {
+          "class_id": 3,
+          "class_name": "srub",
+          "bbox": [
+            130,
+            102,
+            86,
+            313
+          ],
+          "rotation_angle": 358
+        }
+      ]
+    },
+    {
+      "id": 1290,
+      "file_name": "image_1291.jpg",
+      "width": 1024,
+      "height": 1024,
+      "annotations": [
+        {
+          "class_id": 2,
+          "class_name": "miecz",
+          "bbox": [
+            346,
+            284,
+            165,
+            605
+          ],
+          "rotation_angle": 10
+        }
+      ]
+    },
+    {
+      "id": 583,
+      "file_name": "image_0584.jpg",
+      "width": 512,
+      "height": 512,
+      "annotations": [
+        {
+          "class_id": 2,
+          "class_name": "miecz",
+          "bbox": [
+            0,
+            220,
+            211,
+            130
+          ],
+          "rotation_angle": 296
+        }
+      ]
+    },
+    {
+      "id": 756,
+      "file_name": "image_0757.jpg",
+      "width": 224,
+      "height": 224,
+      "annotations": [
+        {
+          "class_id": 2,
+          "class_name": "miecz",
+          "bbox": [
+            11,
+            85,
+            48,
+            81
+          ],
+          "rotation_angle": 30
+        }
+      ]
+    },
+    {
+      "id": 500,
+      "file_name": "image_0501.jpg",
       "width": 224,
       "height": 224,
       "annotations": [
@@ -1891,12 +1872,31 @@
           "class_id": 3,
           "class_name": "srub",
           "bbox": [
-            43,
-            36,
-            46,
-            62
+            32,
+            15,
+            55,
+            119
           ],
-          "rotation_angle": 351
+          "rotation_angle": 21
+        }
+      ]
+    },
+    {
+      "id": 1136,
+      "file_name": "image_1137.jpg",
+      "width": 1024,
+      "height": 1024,
+      "annotations": [
+        {
+          "class_id": 2,
+          "class_name": "miecz",
+          "bbox": [
+            160,
+            670,
+            368,
+            77
+          ],
+          "rotation_angle": 278
         }
       ]
     },
@@ -1907,53 +1907,53 @@
       "height": 512,
       "annotations": [
         {
-          "class_id": 1,
-          "class_name": "komb",
+          "class_id": 2,
+          "class_name": "miecz",
           "bbox": [
-            32,
-            429,
-            44,
-            56
+            10,
+            285,
+            169,
+            135
           ],
-          "rotation_angle": 14
+          "rotation_angle": 136
         }
       ]
     },
     {
       "id": 271,
       "file_name": "image_0272.jpg",
-      "width": 512,
-      "height": 512,
+      "width": 1024,
+      "height": 1024,
       "annotations": [
         {
           "class_id": 2,
           "class_name": "miecz",
           "bbox": [
-            117,
-            230,
-            231,
-            228
+            399,
+            447,
+            185,
+            188
           ],
-          "rotation_angle": 227
+          "rotation_angle": 123
         }
       ]
     },
     {
       "id": 1121,
       "file_name": "image_1122.jpg",
-      "width": 1024,
-      "height": 1024,
+      "width": 224,
+      "height": 224,
       "annotations": [
         {
           "class_id": 3,
           "class_name": "srub",
           "bbox": [
-            510,
-            256,
-            344,
-            323
+            155,
+            6,
+            23,
+            59
           ],
-          "rotation_angle": 126
+          "rotation_angle": 345
         }
       ]
     },
@@ -1964,15 +1964,15 @@
       "height": 512,
       "annotations": [
         {
-          "class_id": 2,
-          "class_name": "miecz",
+          "class_id": 1,
+          "class_name": "komb",
           "bbox": [
-            100,
-            219,
-            269,
-            196
+            4,
+            266,
+            220,
+            167
           ],
-          "rotation_angle": 263
+          "rotation_angle": 237
         }
       ]
     },
@@ -1983,40 +1983,21 @@
       "height": 512,
       "annotations": [
         {
-          "class_id": 3,
-          "class_name": "srub",
+          "class_id": 2,
+          "class_name": "miecz",
           "bbox": [
-            195,
-            368,
-            66,
-            98
+            313,
+            412,
+            23,
+            56
           ],
-          "rotation_angle": 359
+          "rotation_angle": 168
         }
       ]
     },
     {
       "id": 1101,
       "file_name": "image_1102.jpg",
-      "width": 1024,
-      "height": 1024,
-      "annotations": [
-        {
-          "class_id": 2,
-          "class_name": "miecz",
-          "bbox": [
-            668,
-            639,
-            289,
-            335
-          ],
-          "rotation_angle": 335
-        }
-      ]
-    },
-    {
-      "id": 150,
-      "file_name": "image_0151.jpg",
       "width": 512,
       "height": 512,
       "annotations": [
@@ -2024,50 +2005,69 @@
           "class_id": 3,
           "class_name": "srub",
           "bbox": [
-            255,
-            179,
-            256,
-            277
+            69,
+            245,
+            226,
+            128
           ],
-          "rotation_angle": 146
+          "rotation_angle": 116
+        }
+      ]
+    },
+    {
+      "id": 150,
+      "file_name": "image_0151.jpg",
+      "width": 224,
+      "height": 224,
+      "annotations": [
+        {
+          "class_id": 1,
+          "class_name": "komb",
+          "bbox": [
+            196,
+            35,
+            10,
+            13
+          ],
+          "rotation_angle": 334
         }
       ]
     },
     {
       "id": 204,
       "file_name": "image_0205.jpg",
-      "width": 512,
-      "height": 512,
+      "width": 1024,
+      "height": 1024,
       "annotations": [
         {
-          "class_id": 2,
-          "class_name": "miecz",
+          "class_id": 1,
+          "class_name": "komb",
           "bbox": [
-            93,
-            177,
-            216,
-            312
+            173,
+            515,
+            129,
+            371
           ],
-          "rotation_angle": 3
+          "rotation_angle": 194
         }
       ]
     },
     {
       "id": 938,
       "file_name": "image_0939.jpg",
-      "width": 512,
-      "height": 512,
+      "width": 1024,
+      "height": 1024,
       "annotations": [
         {
           "class_id": 1,
           "class_name": "komb",
           "bbox": [
-            169,
-            3,
-            331,
-            399
+            536,
+            218,
+            75,
+            98
           ],
-          "rotation_angle": 20
+          "rotation_angle": 144
         }
       ]
     },
@@ -2078,15 +2078,15 @@
       "height": 1024,
       "annotations": [
         {
-          "class_id": 3,
-          "class_name": "srub",
+          "class_id": 1,
+          "class_name": "komb",
           "bbox": [
-            687,
-            540,
-            266,
-            228
+            1,
+            229,
+            500,
+            349
           ],
-          "rotation_angle": 66
+          "rotation_angle": 236
         }
       ]
     },
@@ -2100,12 +2100,12 @@
           "class_id": 2,
           "class_name": "miecz",
           "bbox": [
-            137,
-            100,
-            355,
-            364
+            110,
+            334,
+            59,
+            124
           ],
-          "rotation_angle": 311
+          "rotation_angle": 20
         }
       ]
     },
@@ -2116,72 +2116,72 @@
       "height": 512,
       "annotations": [
         {
-          "class_id": 1,
-          "class_name": "komb",
+          "class_id": 2,
+          "class_name": "miecz",
           "bbox": [
-            424,
-            162,
-            34,
-            45
+            250,
+            169,
+            109,
+            88
           ],
-          "rotation_angle": 191
+          "rotation_angle": 130
         }
       ]
     },
     {
       "id": 936,
       "file_name": "image_0937.jpg",
-      "width": 1024,
-      "height": 1024,
+      "width": 512,
+      "height": 512,
       "annotations": [
         {
-          "class_id": 1,
-          "class_name": "komb",
+          "class_id": 3,
+          "class_name": "srub",
           "bbox": [
-            53,
-            48,
-            625,
-            912
+            306,
+            331,
+            81,
+            123
           ],
-          "rotation_angle": 358
+          "rotation_angle": 34
         }
       ]
     },
     {
       "id": 614,
       "file_name": "image_0615.jpg",
-      "width": 1024,
-      "height": 1024,
+      "width": 512,
+      "height": 512,
       "annotations": [
         {
-          "class_id": 3,
-          "class_name": "srub",
+          "class_id": 2,
+          "class_name": "miecz",
           "bbox": [
-            192,
-            685,
-            94,
-            126
+            283,
+            261,
+            51,
+            173
           ],
-          "rotation_angle": 351
+          "rotation_angle": 13
         }
       ]
     },
     {
       "id": 268,
       "file_name": "image_0269.jpg",
-      "width": 512,
-      "height": 512,
+      "width": 224,
+      "height": 224,
       "annotations": [
         {
-          "class_id": 1,
-          "class_name": "komb",
+          "class_id": 3,
+          "class_name": "srub",
           "bbox": [
-            30,
-            34,
-            230,
-            185
+            93,
+            159,
+            39,
+            17
           ],
-          "rotation_angle": 287
+          "rotation_angle": 286
         }
       ]
     },
@@ -2192,15 +2192,15 @@
       "height": 512,
       "annotations": [
         {
-          "class_id": 3,
-          "class_name": "srub",
+          "class_id": 1,
+          "class_name": "komb",
           "bbox": [
-            57,
-            59,
-            419,
-            298
+            175,
+            180,
+            189,
+            170
           ],
-          "rotation_angle": 85
+          "rotation_angle": 310
         }
       ]
     },
@@ -2211,15 +2211,15 @@
       "height": 512,
       "annotations": [
         {
-          "class_id": 2,
-          "class_name": "miecz",
+          "class_id": 3,
+          "class_name": "srub",
           "bbox": [
+            63,
+            35,
             101,
-            115,
-            302,
-            254
+            112
           ],
-          "rotation_angle": 68
+          "rotation_angle": 140
         }
       ]
     },
@@ -2230,78 +2230,21 @@
       "height": 224,
       "annotations": [
         {
-          "class_id": 3,
-          "class_name": "srub",
+          "class_id": 1,
+          "class_name": "komb",
           "bbox": [
-            14,
-            114,
-            100,
-            68
+            6,
+            139,
+            34,
+            13
           ],
-          "rotation_angle": 272
+          "rotation_angle": 87
         }
       ]
     },
     {
       "id": 643,
       "file_name": "image_0644.jpg",
-      "width": 512,
-      "height": 512,
-      "annotations": [
-        {
-          "class_id": 1,
-          "class_name": "komb",
-          "bbox": [
-            87,
-            95,
-            390,
-            377
-          ],
-          "rotation_angle": 50
-        }
-      ]
-    },
-    {
-      "id": 418,
-      "file_name": "image_0419.jpg",
-      "width": 1024,
-      "height": 1024,
-      "annotations": [
-        {
-          "class_id": 1,
-          "class_name": "komb",
-          "bbox": [
-            750,
-            134,
-            57,
-            66
-          ],
-          "rotation_angle": 335
-        }
-      ]
-    },
-    {
-      "id": 534,
-      "file_name": "image_0535.jpg",
-      "width": 512,
-      "height": 512,
-      "annotations": [
-        {
-          "class_id": 1,
-          "class_name": "komb",
-          "bbox": [
-            102,
-            65,
-            229,
-            244
-          ],
-          "rotation_angle": 216
-        }
-      ]
-    },
-    {
-      "id": 647,
-      "file_name": "image_0648.jpg",
       "width": 1024,
       "height": 1024,
       "annotations": [
@@ -2309,12 +2252,69 @@
           "class_id": 3,
           "class_name": "srub",
           "bbox": [
-            184,
-            156,
-            574,
-            558
+            161,
+            364,
+            430,
+            424
           ],
-          "rotation_angle": 131
+          "rotation_angle": 225
+        }
+      ]
+    },
+    {
+      "id": 418,
+      "file_name": "image_0419.jpg",
+      "width": 224,
+      "height": 224,
+      "annotations": [
+        {
+          "class_id": 2,
+          "class_name": "miecz",
+          "bbox": [
+            0,
+            34,
+            56,
+            42
+          ],
+          "rotation_angle": 312
+        }
+      ]
+    },
+    {
+      "id": 534,
+      "file_name": "image_0535.jpg",
+      "width": 1024,
+      "height": 1024,
+      "annotations": [
+        {
+          "class_id": 1,
+          "class_name": "komb",
+          "bbox": [
+            77,
+            44,
+            296,
+            523
+          ],
+          "rotation_angle": 333
+        }
+      ]
+    },
+    {
+      "id": 647,
+      "file_name": "image_0648.jpg",
+      "width": 512,
+      "height": 512,
+      "annotations": [
+        {
+          "class_id": 1,
+          "class_name": "komb",
+          "bbox": [
+            279,
+            185,
+            48,
+            38
+          ],
+          "rotation_angle": 57
         }
       ]
     },
@@ -2325,15 +2325,15 @@
       "height": 1024,
       "annotations": [
         {
-          "class_id": 3,
-          "class_name": "srub",
+          "class_id": 1,
+          "class_name": "komb",
           "bbox": [
-            63,
-            458,
-            295,
-            281
+            592,
+            573,
+            242,
+            97
           ],
-          "rotation_angle": 308
+          "rotation_angle": 259
         }
       ]
     },
@@ -2344,15 +2344,15 @@
       "height": 512,
       "annotations": [
         {
-          "class_id": 1,
-          "class_name": "komb",
+          "class_id": 3,
+          "class_name": "srub",
           "bbox": [
-            458,
-            37,
-            45,
-            36
+            88,
+            62,
+            72,
+            294
           ],
-          "rotation_angle": 72
+          "rotation_angle": 171
         }
       ]
     },
@@ -2363,53 +2363,53 @@
       "height": 512,
       "annotations": [
         {
-          "class_id": 1,
-          "class_name": "komb",
+          "class_id": 3,
+          "class_name": "srub",
           "bbox": [
-            374,
-            95,
-            43,
-            51
+            256,
+            196,
+            174,
+            32
           ],
-          "rotation_angle": 24
+          "rotation_angle": 95
         }
       ]
     },
     {
       "id": 81,
       "file_name": "image_0082.jpg",
-      "width": 1024,
-      "height": 1024,
+      "width": 512,
+      "height": 512,
       "annotations": [
         {
-          "class_id": 2,
-          "class_name": "miecz",
+          "class_id": 1,
+          "class_name": "komb",
           "bbox": [
-            389,
-            55,
-            408,
-            541
+            425,
+            354,
+            50,
+            139
           ],
-          "rotation_angle": 350
+          "rotation_angle": 182
         }
       ]
     },
     {
       "id": 504,
       "file_name": "image_0505.jpg",
-      "width": 224,
-      "height": 224,
+      "width": 1024,
+      "height": 1024,
       "annotations": [
         {
-          "class_id": 2,
-          "class_name": "miecz",
+          "class_id": 1,
+          "class_name": "komb",
           "bbox": [
-            125,
-            41,
-            97,
-            100
+            442,
+            541,
+            155,
+            139
           ],
-          "rotation_angle": 41
+          "rotation_angle": 130
         }
       ]
     },
@@ -2420,78 +2420,135 @@
       "height": 512,
       "annotations": [
         {
-          "class_id": 1,
-          "class_name": "komb",
+          "class_id": 3,
+          "class_name": "srub",
           "bbox": [
-            258,
-            205,
-            158,
-            197
+            23,
+            411,
+            116,
+            61
           ],
-          "rotation_angle": 16
+          "rotation_angle": 293
         }
       ]
     },
     {
       "id": 826,
       "file_name": "image_0827.jpg",
-      "width": 1024,
-      "height": 1024,
+      "width": 512,
+      "height": 512,
       "annotations": [
         {
           "class_id": 3,
           "class_name": "srub",
           "bbox": [
-            217,
-            563,
-            379,
-            374
+            37,
+            204,
+            181,
+            31
           ],
-          "rotation_angle": 313
+          "rotation_angle": 85
         }
       ]
     },
     {
       "id": 481,
       "file_name": "image_0482.jpg",
-      "width": 224,
-      "height": 224,
+      "width": 1024,
+      "height": 1024,
       "annotations": [
         {
-          "class_id": 2,
-          "class_name": "miecz",
+          "class_id": 1,
+          "class_name": "komb",
           "bbox": [
-            10,
-            49,
-            160,
-            131
+            594,
+            737,
+            168,
+            72
           ],
-          "rotation_angle": 72
+          "rotation_angle": 253
         }
       ]
     },
     {
       "id": 139,
       "file_name": "image_0140.jpg",
-      "width": 224,
-      "height": 224,
+      "width": 512,
+      "height": 512,
       "annotations": [
         {
-          "class_id": 2,
-          "class_name": "miecz",
+          "class_id": 3,
+          "class_name": "srub",
           "bbox": [
-            33,
-            94,
-            125,
-            112
+            185,
+            140,
+            38,
+            145
           ],
-          "rotation_angle": 332
+          "rotation_angle": 190
         }
       ]
     },
     {
       "id": 140,
       "file_name": "image_0141.jpg",
+      "width": 1024,
+      "height": 1024,
+      "annotations": [
+        {
+          "class_id": 1,
+          "class_name": "komb",
+          "bbox": [
+            341,
+            29,
+            250,
+            343
+          ],
+          "rotation_angle": 330
+        }
+      ]
+    },
+    {
+      "id": 380,
+      "file_name": "image_0381.jpg",
+      "width": 1024,
+      "height": 1024,
+      "annotations": [
+        {
+          "class_id": 1,
+          "class_name": "komb",
+          "bbox": [
+            850,
+            96,
+            50,
+            144
+          ],
+          "rotation_angle": 171
+        }
+      ]
+    },
+    {
+      "id": 164,
+      "file_name": "image_0165.jpg",
+      "width": 512,
+      "height": 512,
+      "annotations": [
+        {
+          "class_id": 3,
+          "class_name": "srub",
+          "bbox": [
+            273,
+            161,
+            168,
+            58
+          ],
+          "rotation_angle": 77
+        }
+      ]
+    },
+    {
+      "id": 1040,
+      "file_name": "image_1041.jpg",
       "width": 224,
       "height": 224,
       "annotations": [
@@ -2499,88 +2556,31 @@
           "class_id": 2,
           "class_name": "miecz",
           "bbox": [
-            5,
-            21,
-            166,
-            162
+            49,
+            23,
+            10,
+            56
           ],
-          "rotation_angle": 318
-        }
-      ]
-    },
-    {
-      "id": 380,
-      "file_name": "image_0381.jpg",
-      "width": 512,
-      "height": 512,
-      "annotations": [
-        {
-          "class_id": 1,
-          "class_name": "komb",
-          "bbox": [
-            37,
-            102,
-            155,
-            184
-          ],
-          "rotation_angle": 22
-        }
-      ]
-    },
-    {
-      "id": 164,
-      "file_name": "image_0165.jpg",
-      "width": 1024,
-      "height": 1024,
-      "annotations": [
-        {
-          "class_id": 2,
-          "class_name": "miecz",
-          "bbox": [
-            57,
-            185,
-            919,
-            715
-          ],
-          "rotation_angle": 283
-        }
-      ]
-    },
-    {
-      "id": 1040,
-      "file_name": "image_1041.jpg",
-      "width": 512,
-      "height": 512,
-      "annotations": [
-        {
-          "class_id": 1,
-          "class_name": "komb",
-          "bbox": [
-            9,
-            121,
-            234,
-            346
-          ],
-          "rotation_angle": 359
+          "rotation_angle": 4
         }
       ]
     },
     {
       "id": 116,
       "file_name": "image_0117.jpg",
-      "width": 1024,
-      "height": 1024,
+      "width": 512,
+      "height": 512,
       "annotations": [
         {
           "class_id": 1,
           "class_name": "komb",
           "bbox": [
-            14,
-            165,
-            686,
-            681
+            114,
+            169,
+            88,
+            110
           ],
-          "rotation_angle": 134
+          "rotation_angle": 217
         }
       ]
     },
@@ -2591,34 +2591,34 @@
       "height": 1024,
       "annotations": [
         {
-          "class_id": 2,
-          "class_name": "miecz",
+          "class_id": 1,
+          "class_name": "komb",
           "bbox": [
-            5,
-            20,
-            699,
-            614
+            162,
+            301,
+            394,
+            449
           ],
-          "rotation_angle": 63
+          "rotation_angle": 39
         }
       ]
     },
     {
       "id": 1087,
       "file_name": "image_1088.jpg",
-      "width": 1024,
-      "height": 1024,
+      "width": 512,
+      "height": 512,
       "annotations": [
         {
-          "class_id": 2,
-          "class_name": "miecz",
+          "class_id": 3,
+          "class_name": "srub",
           "bbox": [
-            416,
-            70,
-            121,
-            132
+            246,
+            222,
+            63,
+            33
           ],
-          "rotation_angle": 213
+          "rotation_angle": 254
         }
       ]
     },
@@ -2632,12 +2632,12 @@
           "class_id": 2,
           "class_name": "miecz",
           "bbox": [
-            259,
-            118,
-            253,
-            360
+            121,
+            151,
+            119,
+            236
           ],
-          "rotation_angle": 176
+          "rotation_angle": 15
         }
       ]
     },
@@ -2648,34 +2648,34 @@
       "height": 1024,
       "annotations": [
         {
-          "class_id": 3,
-          "class_name": "srub",
+          "class_id": 2,
+          "class_name": "miecz",
           "bbox": [
-            58,
-            201,
-            820,
-            632
+            200,
+            508,
+            287,
+            350
           ],
-          "rotation_angle": 282
+          "rotation_angle": 39
         }
       ]
     },
     {
       "id": 102,
       "file_name": "image_0103.jpg",
-      "width": 512,
-      "height": 512,
+      "width": 1024,
+      "height": 1024,
       "annotations": [
         {
           "class_id": 1,
           "class_name": "komb",
           "bbox": [
-            6,
-            168,
-            393,
-            318
+            301,
+            609,
+            382,
+            158
           ],
-          "rotation_angle": 287
+          "rotation_angle": 289
         }
       ]
     },
@@ -2686,34 +2686,34 @@
       "height": 1024,
       "annotations": [
         {
-          "class_id": 2,
-          "class_name": "miecz",
+          "class_id": 3,
+          "class_name": "srub",
           "bbox": [
-            420,
-            431,
-            458,
-            326
+            261,
+            522,
+            248,
+            352
           ],
-          "rotation_angle": 265
+          "rotation_angle": 158
         }
       ]
     },
     {
       "id": 642,
       "file_name": "image_0643.jpg",
-      "width": 512,
-      "height": 512,
+      "width": 1024,
+      "height": 1024,
       "annotations": [
         {
           "class_id": 2,
           "class_name": "miecz",
           "bbox": [
-            162,
-            136,
-            290,
-            305
+            293,
+            493,
+            401,
+            185
           ],
-          "rotation_angle": 233
+          "rotation_angle": 110
         }
       ]
     },
@@ -2724,15 +2724,15 @@
       "height": 512,
       "annotations": [
         {
-          "class_id": 2,
-          "class_name": "miecz",
+          "class_id": 1,
+          "class_name": "komb",
           "bbox": [
-            138,
-            20,
-            189,
-            217
+            6,
+            147,
+            212,
+            95
           ],
-          "rotation_angle": 206
+          "rotation_angle": 257
         }
       ]
     },
@@ -2743,116 +2743,21 @@
       "height": 512,
       "annotations": [
         {
-          "class_id": 3,
-          "class_name": "srub",
+          "class_id": 2,
+          "class_name": "miecz",
           "bbox": [
-            223,
-            384,
-            86,
-            112
+            39,
+            237,
+            114,
+            87
           ],
-          "rotation_angle": 167
+          "rotation_angle": 184
         }
       ]
     },
     {
       "id": 119,
       "file_name": "image_0120.jpg",
-      "width": 512,
-      "height": 512,
-      "annotations": [
-        {
-          "class_id": 1,
-          "class_name": "komb",
-          "bbox": [
-            17,
-            115,
-            341,
-            285
-          ],
-          "rotation_angle": 69
-        }
-      ]
-    },
-    {
-      "id": 445,
-      "file_name": "image_0446.jpg",
-      "width": 224,
-      "height": 224,
-      "annotations": [
-        {
-          "class_id": 1,
-          "class_name": "komb",
-          "bbox": [
-            76,
-            0,
-            130,
-            149
-          ],
-          "rotation_angle": 27
-        }
-      ]
-    },
-    {
-      "id": 607,
-      "file_name": "image_0608.jpg",
-      "width": 512,
-      "height": 512,
-      "annotations": [
-        {
-          "class_id": 3,
-          "class_name": "srub",
-          "bbox": [
-            179,
-            18,
-            259,
-            363
-          ],
-          "rotation_angle": 5
-        }
-      ]
-    },
-    {
-      "id": 388,
-      "file_name": "image_0389.jpg",
-      "width": 224,
-      "height": 224,
-      "annotations": [
-        {
-          "class_id": 1,
-          "class_name": "komb",
-          "bbox": [
-            153,
-            40,
-            45,
-            41
-          ],
-          "rotation_angle": 124
-        }
-      ]
-    },
-    {
-      "id": 317,
-      "file_name": "image_0318.jpg",
-      "width": 512,
-      "height": 512,
-      "annotations": [
-        {
-          "class_id": 2,
-          "class_name": "miecz",
-          "bbox": [
-            9,
-            108,
-            293,
-            397
-          ],
-          "rotation_angle": 8
-        }
-      ]
-    },
-    {
-      "id": 996,
-      "file_name": "image_0997.jpg",
       "width": 1024,
       "height": 1024,
       "annotations": [
@@ -2860,12 +2765,107 @@
           "class_id": 1,
           "class_name": "komb",
           "bbox": [
-            166,
-            139,
-            381,
-            505
+            257,
+            450,
+            450,
+            267
           ],
-          "rotation_angle": 170
+          "rotation_angle": 63
+        }
+      ]
+    },
+    {
+      "id": 445,
+      "file_name": "image_0446.jpg",
+      "width": 1024,
+      "height": 1024,
+      "annotations": [
+        {
+          "class_id": 2,
+          "class_name": "miecz",
+          "bbox": [
+            314,
+            341,
+            359,
+            396
+          ],
+          "rotation_angle": 32
+        }
+      ]
+    },
+    {
+      "id": 607,
+      "file_name": "image_0608.jpg",
+      "width": 1024,
+      "height": 1024,
+      "annotations": [
+        {
+          "class_id": 1,
+          "class_name": "komb",
+          "bbox": [
+            472,
+            237,
+            212,
+            310
+          ],
+          "rotation_angle": 148
+        }
+      ]
+    },
+    {
+      "id": 388,
+      "file_name": "image_0389.jpg",
+      "width": 512,
+      "height": 512,
+      "annotations": [
+        {
+          "class_id": 1,
+          "class_name": "komb",
+          "bbox": [
+            50,
+            188,
+            99,
+            207
+          ],
+          "rotation_angle": 198
+        }
+      ]
+    },
+    {
+      "id": 317,
+      "file_name": "image_0318.jpg",
+      "width": 1024,
+      "height": 1024,
+      "annotations": [
+        {
+          "class_id": 3,
+          "class_name": "srub",
+          "bbox": [
+            20,
+            180,
+            478,
+            287
+          ],
+          "rotation_angle": 300
+        }
+      ]
+    },
+    {
+      "id": 996,
+      "file_name": "image_0997.jpg",
+      "width": 512,
+      "height": 512,
+      "annotations": [
+        {
+          "class_id": 3,
+          "class_name": "srub",
+          "bbox": [
+            0,
+            169,
+            205,
+            120
+          ],
+          "rotation_angle": 64
         }
       ]
     },
@@ -2879,50 +2879,50 @@
           "class_id": 2,
           "class_name": "miecz",
           "bbox": [
-            129,
-            38,
-            595,
-            724
+            353,
+            126,
+            368,
+            386
           ],
-          "rotation_angle": 341
+          "rotation_angle": 136
         }
       ]
     },
     {
       "id": 1279,
       "file_name": "image_1280.jpg",
-      "width": 224,
-      "height": 224,
+      "width": 1024,
+      "height": 1024,
       "annotations": [
         {
-          "class_id": 1,
-          "class_name": "komb",
+          "class_id": 2,
+          "class_name": "miecz",
           "bbox": [
-            60,
-            86,
-            157,
-            132
+            99,
+            274,
+            130,
+            386
           ],
-          "rotation_angle": 112
+          "rotation_angle": 197
         }
       ]
     },
     {
       "id": 584,
       "file_name": "image_0585.jpg",
-      "width": 224,
-      "height": 224,
+      "width": 1024,
+      "height": 1024,
       "annotations": [
         {
           "class_id": 1,
           "class_name": "komb",
           "bbox": [
-            46,
-            27,
-            159,
-            152
+            662,
+            110,
+            99,
+            41
           ],
-          "rotation_angle": 231
+          "rotation_angle": 76
         }
       ]
     },
@@ -2936,12 +2936,12 @@
           "class_id": 3,
           "class_name": "srub",
           "bbox": [
-            34,
-            259,
-            100,
-            84
+            0,
+            44,
+            144,
+            130
           ],
-          "rotation_angle": 111
+          "rotation_angle": 128
         }
       ]
     },
@@ -2952,15 +2952,15 @@
       "height": 512,
       "annotations": [
         {
-          "class_id": 3,
-          "class_name": "srub",
+          "class_id": 2,
+          "class_name": "miecz",
           "bbox": [
-            369,
-            123,
-            95,
-            122
+            7,
+            268,
+            226,
+            145
           ],
-          "rotation_angle": 166
+          "rotation_angle": 238
         }
       ]
     },
@@ -2974,12 +2974,12 @@
           "class_id": 2,
           "class_name": "miecz",
           "bbox": [
-            29,
-            37,
-            434,
-            416
+            188,
+            404,
+            213,
+            14
           ],
-          "rotation_angle": 51
+          "rotation_angle": 91
         }
       ]
     },
@@ -2990,186 +2990,186 @@
       "height": 512,
       "annotations": [
         {
-          "class_id": 2,
-          "class_name": "miecz",
+          "class_id": 1,
+          "class_name": "komb",
           "bbox": [
-            389,
-            200,
-            86,
-            116
+            260,
+            48,
+            64,
+            23
           ],
-          "rotation_angle": 171
+          "rotation_angle": 267
         }
       ]
     },
     {
       "id": 776,
       "file_name": "image_0777.jpg",
-      "width": 512,
-      "height": 512,
+      "width": 224,
+      "height": 224,
       "annotations": [
         {
-          "class_id": 1,
-          "class_name": "komb",
+          "class_id": 2,
+          "class_name": "miecz",
           "bbox": [
-            188,
-            159,
-            254,
-            245
+            86,
+            148,
+            45,
+            37
           ],
-          "rotation_angle": 230
+          "rotation_angle": 109
         }
       ]
     },
     {
       "id": 337,
       "file_name": "image_0338.jpg",
-      "width": 512,
-      "height": 512,
+      "width": 1024,
+      "height": 1024,
       "annotations": [
         {
-          "class_id": 2,
-          "class_name": "miecz",
+          "class_id": 3,
+          "class_name": "srub",
           "bbox": [
-            79,
-            128,
-            418,
-            331
+            452,
+            303,
+            100,
+            384
           ],
-          "rotation_angle": 285
+          "rotation_angle": 191
         }
       ]
     },
     {
       "id": 1224,
       "file_name": "image_1225.jpg",
-      "width": 1024,
-      "height": 1024,
+      "width": 224,
+      "height": 224,
       "annotations": [
         {
-          "class_id": 1,
-          "class_name": "komb",
+          "class_id": 2,
+          "class_name": "miecz",
           "bbox": [
-            192,
-            491,
-            498,
-            491
+            20,
+            78,
+            16,
+            60
           ],
-          "rotation_angle": 227
+          "rotation_angle": 12
         }
       ]
     },
     {
       "id": 1341,
       "file_name": "image_1342.jpg",
-      "width": 512,
-      "height": 512,
+      "width": 1024,
+      "height": 1024,
       "annotations": [
         {
-          "class_id": 1,
-          "class_name": "komb",
+          "class_id": 3,
+          "class_name": "srub",
           "bbox": [
-            17,
-            56,
-            76,
-            99
+            101,
+            612,
+            387,
+            267
           ],
-          "rotation_angle": 11
+          "rotation_angle": 69
         }
       ]
     },
     {
       "id": 437,
       "file_name": "image_0438.jpg",
-      "width": 224,
-      "height": 224,
+      "width": 1024,
+      "height": 1024,
       "annotations": [
         {
-          "class_id": 1,
-          "class_name": "komb",
+          "class_id": 2,
+          "class_name": "miecz",
           "bbox": [
-            7,
-            44,
-            114,
-            146
+            558,
+            464,
+            112,
+            108
           ],
-          "rotation_angle": 14
+          "rotation_angle": 134
         }
       ]
     },
     {
       "id": 985,
       "file_name": "image_0986.jpg",
-      "width": 512,
-      "height": 512,
+      "width": 224,
+      "height": 224,
       "annotations": [
         {
           "class_id": 1,
           "class_name": "komb",
           "bbox": [
-            25,
-            135,
-            439,
-            331
+            59,
+            29,
+            17,
+            26
           ],
-          "rotation_angle": 100
+          "rotation_angle": 27
         }
       ]
     },
     {
       "id": 1215,
       "file_name": "image_1216.jpg",
-      "width": 512,
-      "height": 512,
+      "width": 1024,
+      "height": 1024,
       "annotations": [
         {
-          "class_id": 2,
-          "class_name": "miecz",
+          "class_id": 3,
+          "class_name": "srub",
           "bbox": [
-            153,
-            220,
-            276,
-            286
+            602,
+            334,
+            125,
+            614
           ],
-          "rotation_angle": 220
+          "rotation_angle": 175
         }
       ]
     },
     {
       "id": 832,
       "file_name": "image_0833.jpg",
-      "width": 224,
-      "height": 224,
+      "width": 1024,
+      "height": 1024,
       "annotations": [
         {
-          "class_id": 2,
-          "class_name": "miecz",
+          "class_id": 3,
+          "class_name": "srub",
           "bbox": [
-            57,
-            112,
-            90,
-            97
+            242,
+            318,
+            100,
+            117
           ],
-          "rotation_angle": 326
+          "rotation_angle": 148
         }
       ]
     },
     {
       "id": 340,
       "file_name": "image_0341.jpg",
-      "width": 224,
-      "height": 224,
+      "width": 512,
+      "height": 512,
       "annotations": [
         {
           "class_id": 3,
           "class_name": "srub",
           "bbox": [
-            108,
-            5,
-            41,
-            50
+            286,
+            251,
+            106,
+            177
           ],
-          "rotation_angle": 340
+          "rotation_angle": 159
         }
       ]
     },
@@ -3183,56 +3183,94 @@
           "class_id": 3,
           "class_name": "srub",
           "bbox": [
-            147,
-            37,
-            219,
-            204
+            314,
+            108,
+            54,
+            174
           ],
-          "rotation_angle": 305
+          "rotation_angle": 167
         }
       ]
     },
     {
       "id": 1422,
       "file_name": "image_1423.jpg",
-      "width": 512,
-      "height": 512,
+      "width": 1024,
+      "height": 1024,
       "annotations": [
         {
-          "class_id": 3,
-          "class_name": "srub",
+          "class_id": 1,
+          "class_name": "komb",
           "bbox": [
-            94,
-            261,
-            270,
-            250
+            323,
+            200,
+            235,
+            541
           ],
-          "rotation_angle": 124
+          "rotation_angle": 348
         }
       ]
     },
     {
       "id": 30,
       "file_name": "image_0031.jpg",
-      "width": 512,
-      "height": 512,
+      "width": 224,
+      "height": 224,
       "annotations": [
         {
-          "class_id": 1,
-          "class_name": "komb",
+          "class_id": 3,
+          "class_name": "srub",
           "bbox": [
-            225,
-            129,
-            245,
-            353
+            40,
+            30,
+            15,
+            29
           ],
-          "rotation_angle": 183
+          "rotation_angle": 197
         }
       ]
     },
     {
       "id": 1107,
       "file_name": "image_1108.jpg",
+      "width": 1024,
+      "height": 1024,
+      "annotations": [
+        {
+          "class_id": 3,
+          "class_name": "srub",
+          "bbox": [
+            221,
+            349,
+            454,
+            208
+          ],
+          "rotation_angle": 110
+        }
+      ]
+    },
+    {
+      "id": 103,
+      "file_name": "image_0104.jpg",
+      "width": 512,
+      "height": 512,
+      "annotations": [
+        {
+          "class_id": 2,
+          "class_name": "miecz",
+          "bbox": [
+            135,
+            222,
+            113,
+            176
+          ],
+          "rotation_angle": 211
+        }
+      ]
+    },
+    {
+      "id": 200,
+      "file_name": "image_0201.jpg",
       "width": 512,
       "height": 512,
       "annotations": [
@@ -3240,69 +3278,31 @@
           "class_id": 3,
           "class_name": "srub",
           "bbox": [
-            179,
-            237,
-            247,
-            227
+            268,
+            216,
+            68,
+            126
           ],
-          "rotation_angle": 237
-        }
-      ]
-    },
-    {
-      "id": 103,
-      "file_name": "image_0104.jpg",
-      "width": 224,
-      "height": 224,
-      "annotations": [
-        {
-          "class_id": 1,
-          "class_name": "komb",
-          "bbox": [
-            14,
-            78,
-            33,
-            36
-          ],
-          "rotation_angle": 327
-        }
-      ]
-    },
-    {
-      "id": 200,
-      "file_name": "image_0201.jpg",
-      "width": 1024,
-      "height": 1024,
-      "annotations": [
-        {
-          "class_id": 2,
-          "class_name": "miecz",
-          "bbox": [
-            386,
-            185,
-            84,
-            81
-          ],
-          "rotation_angle": 230
+          "rotation_angle": 23
         }
       ]
     },
     {
       "id": 1127,
       "file_name": "image_1128.jpg",
-      "width": 1024,
-      "height": 1024,
+      "width": 512,
+      "height": 512,
       "annotations": [
         {
-          "class_id": 2,
-          "class_name": "miecz",
+          "class_id": 1,
+          "class_name": "komb",
           "bbox": [
-            223,
-            734,
-            150,
-            208
+            328,
+            108,
+            62,
+            53
           ],
-          "rotation_angle": 186
+          "rotation_angle": 133
         }
       ]
     },
@@ -3313,53 +3313,53 @@
       "height": 1024,
       "annotations": [
         {
-          "class_id": 3,
-          "class_name": "srub",
+          "class_id": 1,
+          "class_name": "komb",
           "bbox": [
-            732,
-            407,
-            74,
-            92
+            220,
+            431,
+            177,
+            374
           ],
-          "rotation_angle": 344
+          "rotation_angle": 196
         }
       ]
     },
     {
       "id": 154,
       "file_name": "image_0155.jpg",
-      "width": 512,
-      "height": 512,
+      "width": 224,
+      "height": 224,
       "annotations": [
         {
-          "class_id": 1,
-          "class_name": "komb",
+          "class_id": 2,
+          "class_name": "miecz",
           "bbox": [
-            19,
-            199,
-            253,
-            171
+            59,
+            109,
+            69,
+            24
           ],
-          "rotation_angle": 271
+          "rotation_angle": 71
         }
       ]
     },
     {
       "id": 511,
       "file_name": "image_0512.jpg",
-      "width": 512,
-      "height": 512,
+      "width": 224,
+      "height": 224,
       "annotations": [
         {
-          "class_id": 2,
-          "class_name": "miecz",
+          "class_id": 3,
+          "class_name": "srub",
           "bbox": [
-            119,
-            157,
-            230,
-            294
+            57,
+            152,
+            130,
+            35
           ],
-          "rotation_angle": 14
+          "rotation_angle": 80
         }
       ]
     },
@@ -3370,15 +3370,15 @@
       "height": 1024,
       "annotations": [
         {
-          "class_id": 2,
-          "class_name": "miecz",
+          "class_id": 1,
+          "class_name": "komb",
           "bbox": [
-            628,
-            640,
-            305,
-            381
+            472,
+            467,
+            132,
+            150
           ],
-          "rotation_angle": 164
+          "rotation_angle": 318
         }
       ]
     },
@@ -3389,34 +3389,34 @@
       "height": 1024,
       "annotations": [
         {
-          "class_id": 2,
-          "class_name": "miecz",
+          "class_id": 1,
+          "class_name": "komb",
           "bbox": [
-            516,
-            655,
-            241,
-            283
+            80,
+            233,
+            254,
+            323
           ],
-          "rotation_angle": 203
+          "rotation_angle": 322
         }
       ]
     },
     {
       "id": 375,
       "file_name": "image_0376.jpg",
-      "width": 512,
-      "height": 512,
+      "width": 1024,
+      "height": 1024,
       "annotations": [
         {
           "class_id": 3,
           "class_name": "srub",
           "bbox": [
-            275,
-            428,
-            62,
-            56
+            408,
+            139,
+            166,
+            295
           ],
-          "rotation_angle": 58
+          "rotation_angle": 161
         }
       ]
     },
@@ -3430,12 +3430,12 @@
           "class_id": 2,
           "class_name": "miecz",
           "bbox": [
-            62,
-            35,
-            147,
-            166
+            137,
+            428,
+            52,
+            8
           ],
-          "rotation_angle": 28
+          "rotation_angle": 94
         }
       ]
     },
@@ -3449,12 +3449,12 @@
           "class_id": 3,
           "class_name": "srub",
           "bbox": [
-            290,
-            65,
-            175,
-            145
+            64,
+            331,
+            196,
+            82
           ],
-          "rotation_angle": 110
+          "rotation_angle": 69
         }
       ]
     },
@@ -3465,15 +3465,15 @@
       "height": 512,
       "annotations": [
         {
-          "class_id": 2,
-          "class_name": "miecz",
+          "class_id": 1,
+          "class_name": "komb",
           "bbox": [
-            90,
-            320,
-            105,
-            85
+            274,
+            39,
+            85,
+            80
           ],
-          "rotation_angle": 288
+          "rotation_angle": 231
         }
       ]
     },
@@ -3484,15 +3484,15 @@
       "height": 512,
       "annotations": [
         {
-          "class_id": 3,
-          "class_name": "srub",
+          "class_id": 2,
+          "class_name": "miecz",
           "bbox": [
-            235,
-            103,
-            257,
-            266
+            252,
+            99,
+            72,
+            62
           ],
-          "rotation_angle": 40
+          "rotation_angle": 50
         }
       ]
     },
@@ -3503,59 +3503,21 @@
       "height": 512,
       "annotations": [
         {
-          "class_id": 2,
-          "class_name": "miecz",
+          "class_id": 3,
+          "class_name": "srub",
           "bbox": [
-            82,
-            192,
-            71,
-            69
+            84,
+            200,
+            244,
+            108
           ],
-          "rotation_angle": 312
+          "rotation_angle": 251
         }
       ]
     },
     {
       "id": 392,
       "file_name": "image_0393.jpg",
-      "width": 224,
-      "height": 224,
-      "annotations": [
-        {
-          "class_id": 1,
-          "class_name": "komb",
-          "bbox": [
-            178,
-            81,
-            21,
-            14
-          ],
-          "rotation_angle": 272
-        }
-      ]
-    },
-    {
-      "id": 509,
-      "file_name": "image_0510.jpg",
-      "width": 224,
-      "height": 224,
-      "annotations": [
-        {
-          "class_id": 1,
-          "class_name": "komb",
-          "bbox": [
-            33,
-            7,
-            149,
-            153
-          ],
-          "rotation_angle": 221
-        }
-      ]
-    },
-    {
-      "id": 223,
-      "file_name": "image_0224.jpg",
       "width": 512,
       "height": 512,
       "annotations": [
@@ -3563,50 +3525,88 @@
           "class_id": 1,
           "class_name": "komb",
           "bbox": [
-            206,
-            152,
-            145,
-            120
+            115,
+            133,
+            89,
+            252
           ],
-          "rotation_angle": 110
+          "rotation_angle": 185
+        }
+      ]
+    },
+    {
+      "id": 509,
+      "file_name": "image_0510.jpg",
+      "width": 1024,
+      "height": 1024,
+      "annotations": [
+        {
+          "class_id": 3,
+          "class_name": "srub",
+          "bbox": [
+            60,
+            368,
+            191,
+            23
+          ],
+          "rotation_angle": 270
+        }
+      ]
+    },
+    {
+      "id": 223,
+      "file_name": "image_0224.jpg",
+      "width": 1024,
+      "height": 1024,
+      "annotations": [
+        {
+          "class_id": 2,
+          "class_name": "miecz",
+          "bbox": [
+            586,
+            455,
+            319,
+            108
+          ],
+          "rotation_angle": 74
         }
       ]
     },
     {
       "id": 694,
       "file_name": "image_0695.jpg",
-      "width": 1024,
-      "height": 1024,
+      "width": 512,
+      "height": 512,
       "annotations": [
         {
-          "class_id": 1,
-          "class_name": "komb",
+          "class_id": 3,
+          "class_name": "srub",
           "bbox": [
-            53,
-            81,
-            669,
-            655
+            197,
+            18,
+            19,
+            25
           ],
-          "rotation_angle": 228
+          "rotation_angle": 143
         }
       ]
     },
     {
       "id": 824,
       "file_name": "image_0825.jpg",
-      "width": 1024,
-      "height": 1024,
+      "width": 512,
+      "height": 512,
       "annotations": [
         {
-          "class_id": 1,
-          "class_name": "komb",
+          "class_id": 2,
+          "class_name": "miecz",
           "bbox": [
-            38,
-            153,
-            631,
-            541
+            287,
+            226,
+            34,
+            198
           ],
-          "rotation_angle": 246
+          "rotation_angle": 243
         }
       ]
     },
@@ -3617,15 +3617,15 @@
       "height": 224,
       "annotations": [
         {
-          "class_id": 3,
-          "class_name": "srub",
+          "class_id": 1,
+          "class_name": "komb",
           "bbox": [
-            93,
-            104,
-            126,
-            111
+            7,
+            99,
+            14,
+            39
           ],
-          "rotation_angle": 117
+          "rotation_angle": 0
         }
       ]
     },
@@ -3636,230 +3636,116 @@
       "height": 224,
       "annotations": [
         {
-          "class_id": 2,
-          "class_name": "miecz",
+          "class_id": 3,
+          "class_name": "srub",
           "bbox": [
-            90,
-            20,
-            110,
-            142
+            64,
+            47,
+            46,
+            37
           ],
-          "rotation_angle": 167
+          "rotation_angle": 313
         }
       ]
     },
     {
       "id": 110,
       "file_name": "image_0111.jpg",
-      "width": 512,
-      "height": 512,
+      "width": 1024,
+      "height": 1024,
       "annotations": [
         {
-          "class_id": 3,
-          "class_name": "srub",
+          "class_id": 2,
+          "class_name": "miecz",
           "bbox": [
-            3,
-            23,
-            427,
-            351
+            343,
+            100,
+            85,
+            38
           ],
-          "rotation_angle": 251
+          "rotation_angle": 281
         }
       ]
     },
     {
       "id": 956,
       "file_name": "image_0957.jpg",
-      "width": 512,
-      "height": 512,
+      "width": 1024,
+      "height": 1024,
       "annotations": [
         {
-          "class_id": 1,
-          "class_name": "komb",
+          "class_id": 3,
+          "class_name": "srub",
           "bbox": [
-            40,
-            294,
+            524,
             145,
-            139
+            143,
+            404
           ],
-          "rotation_angle": 309
+          "rotation_angle": 199
         }
       ]
     },
     {
       "id": 841,
       "file_name": "image_0842.jpg",
-      "width": 1024,
-      "height": 1024,
+      "width": 512,
+      "height": 512,
       "annotations": [
         {
-          "class_id": 2,
-          "class_name": "miecz",
+          "class_id": 1,
+          "class_name": "komb",
           "bbox": [
-            594,
-            468,
-            262,
-            248
+            236,
+            375,
+            14,
+            34
           ],
-          "rotation_angle": 53
+          "rotation_angle": 9
         }
       ]
     },
     {
       "id": 867,
       "file_name": "image_0868.jpg",
-      "width": 512,
-      "height": 512,
+      "width": 1024,
+      "height": 1024,
       "annotations": [
         {
-          "class_id": 3,
-          "class_name": "srub",
+          "class_id": 2,
+          "class_name": "miecz",
           "bbox": [
-            61,
-            16,
-            85,
-            90
+            497,
+            698,
+            88,
+            230
           ],
-          "rotation_angle": 144
+          "rotation_angle": 206
         }
       ]
     },
     {
       "id": 725,
       "file_name": "image_0726.jpg",
-      "width": 1024,
-      "height": 1024,
+      "width": 512,
+      "height": 512,
       "annotations": [
         {
-          "class_id": 1,
-          "class_name": "komb",
+          "class_id": 3,
+          "class_name": "srub",
           "bbox": [
-            210,
-            88,
-            640,
-            588
+            146,
+            215,
+            35,
+            116
           ],
-          "rotation_angle": 57
+          "rotation_angle": 13
         }
       ]
     },
     {
       "id": 882,
       "file_name": "image_0883.jpg",
-      "width": 1024,
-      "height": 1024,
-      "annotations": [
-        {
-          "class_id": 2,
-          "class_name": "miecz",
-          "bbox": [
-            205,
-            389,
-            94,
-            102
-          ],
-          "rotation_angle": 57
-        }
-      ]
-    },
-    {
-      "id": 1396,
-      "file_name": "image_1397.jpg",
-      "width": 224,
-      "height": 224,
-      "annotations": [
-        {
-          "class_id": 2,
-          "class_name": "miecz",
-          "bbox": [
-            161,
-            53,
-            39,
-            40
-          ],
-          "rotation_angle": 42
-        }
-      ]
-    },
-    {
-      "id": 193,
-      "file_name": "image_0194.jpg",
-      "width": 1024,
-      "height": 1024,
-      "annotations": [
-        {
-          "class_id": 2,
-          "class_name": "miecz",
-          "bbox": [
-            97,
-            242,
-            424,
-            455
-          ],
-          "rotation_angle": 35
-        }
-      ]
-    },
-    {
-      "id": 389,
-      "file_name": "image_0390.jpg",
-      "width": 512,
-      "height": 512,
-      "annotations": [
-        {
-          "class_id": 2,
-          "class_name": "miecz",
-          "bbox": [
-            135,
-            25,
-            318,
-            245
-          ],
-          "rotation_angle": 102
-        }
-      ]
-    },
-    {
-      "id": 833,
-      "file_name": "image_0834.jpg",
-      "width": 1024,
-      "height": 1024,
-      "annotations": [
-        {
-          "class_id": 3,
-          "class_name": "srub",
-          "bbox": [
-            75,
-            471,
-            466,
-            409
-          ],
-          "rotation_angle": 297
-        }
-      ]
-    },
-    {
-      "id": 1426,
-      "file_name": "image_1427.jpg",
-      "width": 512,
-      "height": 512,
-      "annotations": [
-        {
-          "class_id": 3,
-          "class_name": "srub",
-          "bbox": [
-            58,
-            168,
-            120,
-            168
-          ],
-          "rotation_angle": 185
-        }
-      ]
-    },
-    {
-      "id": 497,
-      "file_name": "image_0498.jpg",
       "width": 512,
       "height": 512,
       "annotations": [
@@ -3867,12 +3753,126 @@
           "class_id": 1,
           "class_name": "komb",
           "bbox": [
-            82,
-            123,
-            319,
-            356
+            202,
+            140,
+            141,
+            63
           ],
-          "rotation_angle": 210
+          "rotation_angle": 252
+        }
+      ]
+    },
+    {
+      "id": 1396,
+      "file_name": "image_1397.jpg",
+      "width": 1024,
+      "height": 1024,
+      "annotations": [
+        {
+          "class_id": 2,
+          "class_name": "miecz",
+          "bbox": [
+            65,
+            449,
+            506,
+            239
+          ],
+          "rotation_angle": 115
+        }
+      ]
+    },
+    {
+      "id": 193,
+      "file_name": "image_0194.jpg",
+      "width": 512,
+      "height": 512,
+      "annotations": [
+        {
+          "class_id": 3,
+          "class_name": "srub",
+          "bbox": [
+            0,
+            111,
+            151,
+            81
+          ],
+          "rotation_angle": 303
+        }
+      ]
+    },
+    {
+      "id": 389,
+      "file_name": "image_0390.jpg",
+      "width": 224,
+      "height": 224,
+      "annotations": [
+        {
+          "class_id": 1,
+          "class_name": "komb",
+          "bbox": [
+            152,
+            69,
+            37,
+            58
+          ],
+          "rotation_angle": 334
+        }
+      ]
+    },
+    {
+      "id": 833,
+      "file_name": "image_0834.jpg",
+      "width": 512,
+      "height": 512,
+      "annotations": [
+        {
+          "class_id": 2,
+          "class_name": "miecz",
+          "bbox": [
+            388,
+            35,
+            28,
+            59
+          ],
+          "rotation_angle": 150
+        }
+      ]
+    },
+    {
+      "id": 1426,
+      "file_name": "image_1427.jpg",
+      "width": 224,
+      "height": 224,
+      "annotations": [
+        {
+          "class_id": 1,
+          "class_name": "komb",
+          "bbox": [
+            6,
+            23,
+            47,
+            52
+          ],
+          "rotation_angle": 37
+        }
+      ]
+    },
+    {
+      "id": 497,
+      "file_name": "image_0498.jpg",
+      "width": 1024,
+      "height": 1024,
+      "annotations": [
+        {
+          "class_id": 3,
+          "class_name": "srub",
+          "bbox": [
+            16,
+            573,
+            416,
+            151
+          ],
+          "rotation_angle": 89
         }
       ]
     },
@@ -3886,31 +3886,31 @@
           "class_id": 3,
           "class_name": "srub",
           "bbox": [
-            87,
-            120,
-            343,
-            382
+            278,
+            121,
+            111,
+            234
           ],
-          "rotation_angle": 30
+          "rotation_angle": 199
         }
       ]
     },
     {
       "id": 1180,
       "file_name": "image_1181.jpg",
-      "width": 512,
-      "height": 512,
+      "width": 224,
+      "height": 224,
       "annotations": [
         {
           "class_id": 1,
           "class_name": "komb",
           "bbox": [
-            103,
-            195,
-            198,
-            246
+            104,
+            182,
+            17,
+            40
           ],
-          "rotation_angle": 163
+          "rotation_angle": 353
         }
       ]
     },
@@ -3921,15 +3921,15 @@
       "height": 512,
       "annotations": [
         {
-          "class_id": 2,
-          "class_name": "miecz",
+          "class_id": 3,
+          "class_name": "srub",
           "bbox": [
+            184,
+            65,
             54,
-            54,
-            202,
-            196
+            253
           ],
-          "rotation_angle": 229
+          "rotation_angle": 171
         }
       ]
     },
@@ -3940,15 +3940,15 @@
       "height": 1024,
       "annotations": [
         {
-          "class_id": 2,
-          "class_name": "miecz",
+          "class_id": 3,
+          "class_name": "srub",
           "bbox": [
-            94,
-            370,
-            541,
-            497
+            734,
+            222,
+            201,
+            69
           ],
-          "rotation_angle": 237
+          "rotation_angle": 266
         }
       ]
     },
@@ -3959,15 +3959,15 @@
       "height": 512,
       "annotations": [
         {
-          "class_id": 3,
-          "class_name": "srub",
+          "class_id": 1,
+          "class_name": "komb",
           "bbox": [
-            66,
-            117,
-            255,
-            288
+            147,
+            121,
+            124,
+            259
           ],
-          "rotation_angle": 152
+          "rotation_angle": 203
         }
       ]
     },
@@ -3978,34 +3978,34 @@
       "height": 512,
       "annotations": [
         {
-          "class_id": 3,
-          "class_name": "srub",
+          "class_id": 2,
+          "class_name": "miecz",
           "bbox": [
-            2,
-            220,
-            371,
-            261
+            0,
+            195,
+            262,
+            70
           ],
-          "rotation_angle": 274
+          "rotation_angle": 282
         }
       ]
     },
     {
       "id": 994,
       "file_name": "image_0995.jpg",
-      "width": 512,
-      "height": 512,
+      "width": 224,
+      "height": 224,
       "annotations": [
         {
-          "class_id": 3,
-          "class_name": "srub",
+          "class_id": 1,
+          "class_name": "komb",
           "bbox": [
-            136,
-            117,
-            348,
-            385
+            14,
+            140,
+            109,
+            59
           ],
-          "rotation_angle": 149
+          "rotation_angle": 113
         }
       ]
     },
@@ -4016,15 +4016,15 @@
       "height": 512,
       "annotations": [
         {
-          "class_id": 2,
-          "class_name": "miecz",
+          "class_id": 1,
+          "class_name": "komb",
           "bbox": [
-            82,
-            238,
-            297,
-            219
+            236,
+            130,
+            24,
+            12
           ],
-          "rotation_angle": 262
+          "rotation_angle": 284
         }
       ]
     },
@@ -4038,12 +4038,12 @@
           "class_id": 3,
           "class_name": "srub",
           "bbox": [
-            23,
-            31,
-            385,
-            456
+            94,
+            183,
+            259,
+            199
           ],
-          "rotation_angle": 338
+          "rotation_angle": 108
         }
       ]
     },
@@ -4054,34 +4054,34 @@
       "height": 1024,
       "annotations": [
         {
-          "class_id": 3,
-          "class_name": "srub",
+          "class_id": 1,
+          "class_name": "komb",
           "bbox": [
-            396,
-            364,
-            626,
-            477
+            458,
+            582,
+            64,
+            112
           ],
-          "rotation_angle": 79
+          "rotation_angle": 203
         }
       ]
     },
     {
       "id": 1225,
       "file_name": "image_1226.jpg",
-      "width": 1024,
-      "height": 1024,
+      "width": 512,
+      "height": 512,
       "annotations": [
         {
-          "class_id": 3,
-          "class_name": "srub",
+          "class_id": 1,
+          "class_name": "komb",
           "bbox": [
-            263,
-            213,
-            628,
-            792
+            3,
+            151,
+            293,
+            122
           ],
-          "rotation_angle": 15
+          "rotation_angle": 258
         }
       ]
     },
@@ -4092,15 +4092,15 @@
       "height": 1024,
       "annotations": [
         {
-          "class_id": 1,
-          "class_name": "komb",
+          "class_id": 3,
+          "class_name": "srub",
           "bbox": [
-            298,
-            468,
-            595,
-            434
+            374,
+            187,
+            245,
+            214
           ],
-          "rotation_angle": 263
+          "rotation_angle": 231
         }
       ]
     },
@@ -4111,78 +4111,59 @@
       "height": 1024,
       "annotations": [
         {
-          "class_id": 2,
-          "class_name": "miecz",
+          "class_id": 1,
+          "class_name": "komb",
           "bbox": [
-            163,
-            142,
-            713,
-            560
+            132,
+            635,
+            117,
+            132
           ],
-          "rotation_angle": 104
+          "rotation_angle": 143
         }
       ]
     },
     {
       "id": 138,
       "file_name": "image_0139.jpg",
-      "width": 224,
-      "height": 224,
+      "width": 512,
+      "height": 512,
       "annotations": [
         {
           "class_id": 1,
           "class_name": "komb",
           "bbox": [
-            42,
-            99,
             145,
-            98
+            138,
+            217,
+            246
           ],
-          "rotation_angle": 89
+          "rotation_angle": 39
         }
       ]
     },
     {
       "id": 468,
       "file_name": "image_0469.jpg",
-      "width": 224,
-      "height": 224,
+      "width": 1024,
+      "height": 1024,
       "annotations": [
         {
-          "class_id": 3,
-          "class_name": "srub",
+          "class_id": 1,
+          "class_name": "komb",
           "bbox": [
-            90,
-            13,
-            15,
-            13
+            388,
+            182,
+            207,
+            545
           ],
-          "rotation_angle": 299
+          "rotation_angle": 174
         }
       ]
     },
     {
       "id": 120,
       "file_name": "image_0121.jpg",
-      "width": 1024,
-      "height": 1024,
-      "annotations": [
-        {
-          "class_id": 2,
-          "class_name": "miecz",
-          "bbox": [
-            342,
-            20,
-            281,
-            214
-          ],
-          "rotation_angle": 101
-        }
-      ]
-    },
-    {
-      "id": 145,
-      "file_name": "image_0146.jpg",
       "width": 512,
       "height": 512,
       "annotations": [
@@ -4190,31 +4171,50 @@
           "class_id": 1,
           "class_name": "komb",
           "bbox": [
-            240,
-            240,
-            183,
-            145
+            488,
+            60,
+            14,
+            20
           ],
-          "rotation_angle": 105
+          "rotation_angle": 330
+        }
+      ]
+    },
+    {
+      "id": 145,
+      "file_name": "image_0146.jpg",
+      "width": 1024,
+      "height": 1024,
+      "annotations": [
+        {
+          "class_id": 3,
+          "class_name": "srub",
+          "bbox": [
+            543,
+            892,
+            141,
+            62
+          ],
+          "rotation_angle": 285
         }
       ]
     },
     {
       "id": 14,
       "file_name": "image_0015.jpg",
-      "width": 512,
-      "height": 512,
+      "width": 1024,
+      "height": 1024,
       "annotations": [
         {
           "class_id": 3,
           "class_name": "srub",
           "bbox": [
-            333,
-            143,
-            167,
-            178
+            400,
+            280,
+            280,
+            38
           ],
-          "rotation_angle": 324
+          "rotation_angle": 88
         }
       ]
     },
@@ -4228,12 +4228,12 @@
           "class_id": 3,
           "class_name": "srub",
           "bbox": [
-            253,
-            170,
-            61,
-            57
+            38,
+            245,
+            120,
+            53
           ],
-          "rotation_angle": 233
+          "rotation_angle": 110
         }
       ]
     },
@@ -4244,72 +4244,72 @@
       "height": 512,
       "annotations": [
         {
-          "class_id": 2,
-          "class_name": "miecz",
+          "class_id": 3,
+          "class_name": "srub",
           "bbox": [
-            47,
-            112,
-            397,
-            346
+            0,
+            128,
+            233,
+            98
           ],
-          "rotation_angle": 244
+          "rotation_angle": 71
         }
       ]
     },
     {
       "id": 471,
       "file_name": "image_0472.jpg",
-      "width": 512,
-      "height": 512,
+      "width": 1024,
+      "height": 1024,
       "annotations": [
         {
           "class_id": 3,
           "class_name": "srub",
           "bbox": [
-            35,
-            21,
-            407,
-            393
+            0,
+            760,
+            449,
+            164
           ],
-          "rotation_angle": 310
+          "rotation_angle": 100
         }
       ]
     },
     {
       "id": 1134,
       "file_name": "image_1135.jpg",
-      "width": 512,
-      "height": 512,
+      "width": 224,
+      "height": 224,
       "annotations": [
         {
           "class_id": 2,
           "class_name": "miecz",
           "bbox": [
-            5,
-            155,
-            146,
-            173
+            42,
+            141,
+            61,
+            18
           ],
-          "rotation_angle": 338
+          "rotation_angle": 104
         }
       ]
     },
     {
       "id": 1204,
       "file_name": "image_1205.jpg",
-      "width": 512,
-      "height": 512,
+      "width": 1024,
+      "height": 1024,
       "annotations": [
         {
-          "class_id": 2,
-          "class_name": "miecz",
+          "class_id": 3,
+          "class_name": "srub",
           "bbox": [
-            205,
-            263,
-            241,
-            228
+            484,
+            234,
+            231,
+            392
           ],
-          "rotation_angle": 233
+          "rotation_angle": 332
         }
       ]
     },
@@ -4323,12 +4323,12 @@
           "class_id": 1,
           "class_name": "komb",
           "bbox": [
-            265,
-            151,
-            202,
-            162
+            60,
+            101,
+            211,
+            194
           ],
-          "rotation_angle": 254
+          "rotation_angle": 226
         }
       ]
     },
@@ -4342,12 +4342,12 @@
           "class_id": 2,
           "class_name": "miecz",
           "bbox": [
-            57,
-            46,
-            327,
-            394
+            166,
+            213,
+            93,
+            189
           ],
-          "rotation_angle": 340
+          "rotation_angle": 343
         }
       ]
     },
@@ -4358,91 +4358,91 @@
       "height": 512,
       "annotations": [
         {
-          "class_id": 2,
-          "class_name": "miecz",
+          "class_id": 3,
+          "class_name": "srub",
           "bbox": [
-            72,
-            48,
-            326,
-            387
+            209,
+            239,
+            51,
+            63
           ],
-          "rotation_angle": 22
+          "rotation_angle": 323
         }
       ]
     },
     {
       "id": 460,
       "file_name": "image_0461.jpg",
-      "width": 1024,
-      "height": 1024,
+      "width": 512,
+      "height": 512,
       "annotations": [
         {
           "class_id": 3,
           "class_name": "srub",
           "bbox": [
-            81,
-            53,
-            597,
-            740
+            111,
+            398,
+            29,
+            56
           ],
-          "rotation_angle": 17
+          "rotation_angle": 204
         }
       ]
     },
     {
       "id": 507,
       "file_name": "image_0508.jpg",
-      "width": 512,
-      "height": 512,
+      "width": 1024,
+      "height": 1024,
       "annotations": [
         {
-          "class_id": 3,
-          "class_name": "srub",
+          "class_id": 2,
+          "class_name": "miecz",
           "bbox": [
-            67,
-            180,
-            291,
-            214
+            616,
+            741,
+            287,
+            63
           ],
-          "rotation_angle": 98
+          "rotation_angle": 336
         }
       ]
     },
     {
       "id": 247,
       "file_name": "image_0248.jpg",
-      "width": 512,
-      "height": 512,
+      "width": 224,
+      "height": 224,
       "annotations": [
         {
-          "class_id": 1,
-          "class_name": "komb",
+          "class_id": 3,
+          "class_name": "srub",
           "bbox": [
-            64,
-            226,
-            269,
-            246
+            15,
+            104,
+            78,
+            14
           ],
-          "rotation_angle": 303
+          "rotation_angle": 265
         }
       ]
     },
     {
       "id": 924,
       "file_name": "image_0925.jpg",
-      "width": 512,
-      "height": 512,
+      "width": 224,
+      "height": 224,
       "annotations": [
         {
-          "class_id": 2,
-          "class_name": "miecz",
+          "class_id": 1,
+          "class_name": "komb",
           "bbox": [
-            273,
-            5,
-            220,
-            280
+            157,
+            132,
+            38,
+            63
           ],
-          "rotation_angle": 194
+          "rotation_angle": 203
         }
       ]
     },
@@ -4453,34 +4453,34 @@
       "height": 512,
       "annotations": [
         {
-          "class_id": 1,
-          "class_name": "komb",
+          "class_id": 3,
+          "class_name": "srub",
           "bbox": [
-            212,
-            93,
-            241,
-            299
+            107,
+            138,
+            25,
+            10
           ],
-          "rotation_angle": 343
+          "rotation_angle": 95
         }
       ]
     },
     {
       "id": 897,
       "file_name": "image_0898.jpg",
-      "width": 1024,
-      "height": 1024,
+      "width": 512,
+      "height": 512,
       "annotations": [
         {
-          "class_id": 3,
-          "class_name": "srub",
+          "class_id": 1,
+          "class_name": "komb",
           "bbox": [
-            394,
-            236,
-            416,
-            600
+            204,
+            363,
+            165,
+            79
           ],
-          "rotation_angle": 3
+          "rotation_angle": 68
         }
       ]
     },
@@ -4491,78 +4491,21 @@
       "height": 1024,
       "annotations": [
         {
-          "class_id": 3,
-          "class_name": "srub",
+          "class_id": 1,
+          "class_name": "komb",
           "bbox": [
-            108,
-            37,
-            292,
-            315
+            224,
+            449,
+            118,
+            224
           ],
-          "rotation_angle": 326
+          "rotation_angle": 202
         }
       ]
     },
     {
       "id": 1320,
       "file_name": "image_1321.jpg",
-      "width": 1024,
-      "height": 1024,
-      "annotations": [
-        {
-          "class_id": 2,
-          "class_name": "miecz",
-          "bbox": [
-            232,
-            217,
-            720,
-            802
-          ],
-          "rotation_angle": 30
-        }
-      ]
-    },
-    {
-      "id": 638,
-      "file_name": "image_0639.jpg",
-      "width": 224,
-      "height": 224,
-      "annotations": [
-        {
-          "class_id": 3,
-          "class_name": "srub",
-          "bbox": [
-            15,
-            33,
-            78,
-            84
-          ],
-          "rotation_angle": 34
-        }
-      ]
-    },
-    {
-      "id": 411,
-      "file_name": "image_0412.jpg",
-      "width": 1024,
-      "height": 1024,
-      "annotations": [
-        {
-          "class_id": 1,
-          "class_name": "komb",
-          "bbox": [
-            874,
-            216,
-            99,
-            145
-          ],
-          "rotation_angle": 182
-        }
-      ]
-    },
-    {
-      "id": 1274,
-      "file_name": "image_1275.jpg",
       "width": 512,
       "height": 512,
       "annotations": [
@@ -4570,12 +4513,69 @@
           "class_id": 1,
           "class_name": "komb",
           "bbox": [
-            104,
-            99,
-            353,
-            322
+            429,
+            68,
+            35,
+            69
           ],
-          "rotation_angle": 302
+          "rotation_angle": 158
+        }
+      ]
+    },
+    {
+      "id": 638,
+      "file_name": "image_0639.jpg",
+      "width": 512,
+      "height": 512,
+      "annotations": [
+        {
+          "class_id": 2,
+          "class_name": "miecz",
+          "bbox": [
+            187,
+            151,
+            77,
+            83
+          ],
+          "rotation_angle": 146
+        }
+      ]
+    },
+    {
+      "id": 411,
+      "file_name": "image_0412.jpg",
+      "width": 512,
+      "height": 512,
+      "annotations": [
+        {
+          "class_id": 1,
+          "class_name": "komb",
+          "bbox": [
+            160,
+            173,
+            87,
+            249
+          ],
+          "rotation_angle": 177
+        }
+      ]
+    },
+    {
+      "id": 1274,
+      "file_name": "image_1275.jpg",
+      "width": 1024,
+      "height": 1024,
+      "annotations": [
+        {
+          "class_id": 2,
+          "class_name": "miecz",
+          "bbox": [
+            397,
+            511,
+            272,
+            253
+          ],
+          "rotation_angle": 48
         }
       ]
     },
@@ -4589,50 +4589,50 @@
           "class_id": 1,
           "class_name": "komb",
           "bbox": [
-            248,
-            92,
-            63,
-            85
+            294,
+            439,
+            111,
+            39
           ],
-          "rotation_angle": 189
+          "rotation_angle": 101
         }
       ]
     },
     {
       "id": 866,
       "file_name": "image_0867.jpg",
-      "width": 512,
-      "height": 512,
+      "width": 1024,
+      "height": 1024,
       "annotations": [
         {
-          "class_id": 1,
-          "class_name": "komb",
+          "class_id": 2,
+          "class_name": "miecz",
           "bbox": [
-            204,
-            91,
-            290,
-            393
+            200,
+            476,
+            270,
+            285
           ],
-          "rotation_angle": 188
+          "rotation_angle": 307
         }
       ]
     },
     {
       "id": 1242,
       "file_name": "image_1243.jpg",
-      "width": 512,
-      "height": 512,
+      "width": 1024,
+      "height": 1024,
       "annotations": [
         {
-          "class_id": 3,
-          "class_name": "srub",
+          "class_id": 2,
+          "class_name": "miecz",
           "bbox": [
-            6,
-            25,
-            259,
-            316
+            13,
+            114,
+            455,
+            404
           ],
-          "rotation_angle": 341
+          "rotation_angle": 139
         }
       ]
     },
@@ -4643,72 +4643,72 @@
       "height": 512,
       "annotations": [
         {
-          "class_id": 3,
-          "class_name": "srub",
+          "class_id": 2,
+          "class_name": "miecz",
           "bbox": [
-            48,
-            62,
-            399,
-            419
+            128,
+            335,
+            72,
+            136
           ],
-          "rotation_angle": 142
+          "rotation_angle": 28
         }
       ]
     },
     {
       "id": 1329,
       "file_name": "image_1330.jpg",
-      "width": 1024,
-      "height": 1024,
+      "width": 512,
+      "height": 512,
       "annotations": [
         {
-          "class_id": 3,
-          "class_name": "srub",
+          "class_id": 1,
+          "class_name": "komb",
           "bbox": [
-            499,
-            741,
-            296,
-            269
+            190,
+            255,
+            103,
+            139
           ],
-          "rotation_angle": 122
+          "rotation_angle": 32
         }
       ]
     },
     {
       "id": 338,
       "file_name": "image_0339.jpg",
-      "width": 224,
-      "height": 224,
+      "width": 1024,
+      "height": 1024,
       "annotations": [
         {
           "class_id": 1,
           "class_name": "komb",
           "bbox": [
-            69,
-            16,
-            116,
-            146
+            341,
+            573,
+            150,
+            213
           ],
-          "rotation_angle": 164
+          "rotation_angle": 150
         }
       ]
     },
     {
       "id": 1125,
       "file_name": "image_1126.jpg",
-      "width": 224,
-      "height": 224,
+      "width": 512,
+      "height": 512,
       "annotations": [
         {
-          "class_id": 1,
-          "class_name": "komb",
+          "class_id": 3,
+          "class_name": "srub",
           "bbox": [
-            195,
-            138,
-            25,
-            25
+            245,
+            100,
+            101,
+            118
           ],
-          "rotation_angle": 132
+          "rotation_angle": 151
         }
       ]
     },
@@ -4722,10 +4722,10 @@
           "class_id": 3,
           "class_name": "srub",
           "bbox": [
-            389,
-            125,
-            603,
-            464
+            265,
+            445,
+            102,
+            54
           ],
           "rotation_angle": 258
         }
@@ -4738,53 +4738,53 @@
       "height": 1024,
       "annotations": [
         {
-          "class_id": 3,
-          "class_name": "srub",
+          "class_id": 2,
+          "class_name": "miecz",
           "bbox": [
-            101,
-            355,
-            432,
-            403
+            213,
+            17,
+            27,
+            145
           ],
-          "rotation_angle": 55
+          "rotation_angle": 173
         }
       ]
     },
     {
       "id": 257,
       "file_name": "image_0258.jpg",
-      "width": 512,
-      "height": 512,
+      "width": 224,
+      "height": 224,
       "annotations": [
         {
-          "class_id": 2,
-          "class_name": "miecz",
+          "class_id": 1,
+          "class_name": "komb",
           "bbox": [
-            147,
-            23,
-            213,
-            274
+            83,
+            74,
+            81,
+            39
           ],
-          "rotation_angle": 193
+          "rotation_angle": 288
         }
       ]
     },
     {
       "id": 1090,
       "file_name": "image_1091.jpg",
-      "width": 1024,
-      "height": 1024,
+      "width": 512,
+      "height": 512,
       "annotations": [
         {
-          "class_id": 2,
-          "class_name": "miecz",
+          "class_id": 3,
+          "class_name": "srub",
           "bbox": [
-            118,
-            51,
-            891,
-            885
+            62,
+            325,
+            231,
+            105
           ],
-          "rotation_angle": 314
+          "rotation_angle": 288
         }
       ]
     },
@@ -4798,37 +4798,18 @@
           "class_id": 2,
           "class_name": "miecz",
           "bbox": [
-            13,
-            731,
-            371,
-            293
+            198,
+            253,
+            669,
+            215
           ],
-          "rotation_angle": 348
+          "rotation_angle": 162
         }
       ]
     },
     {
       "id": 995,
       "file_name": "image_0996.jpg",
-      "width": 1024,
-      "height": 1024,
-      "annotations": [
-        {
-          "class_id": 1,
-          "class_name": "komb",
-          "bbox": [
-            243,
-            112,
-            702,
-            885
-          ],
-          "rotation_angle": 195
-        }
-      ]
-    },
-    {
-      "id": 175,
-      "file_name": "image_0176.jpg",
       "width": 512,
       "height": 512,
       "annotations": [
@@ -4836,12 +4817,31 @@
           "class_id": 1,
           "class_name": "komb",
           "bbox": [
-            152,
-            22,
-            20,
-            26
+            129,
+            298,
+            82,
+            83
           ],
-          "rotation_angle": 165
+          "rotation_angle": 136
+        }
+      ]
+    },
+    {
+      "id": 175,
+      "file_name": "image_0176.jpg",
+      "width": 1024,
+      "height": 1024,
+      "annotations": [
+        {
+          "class_id": 1,
+          "class_name": "komb",
+          "bbox": [
+            355,
+            544,
+            279,
+            89
+          ],
+          "rotation_angle": 268
         }
       ]
     },
@@ -4855,94 +4855,75 @@
           "class_id": 2,
           "class_name": "miecz",
           "bbox": [
-            79,
-            81,
-            101,
-            124
+            24,
+            106,
+            8,
+            13
           ],
-          "rotation_angle": 162
+          "rotation_angle": 21
         }
       ]
     },
     {
       "id": 1337,
       "file_name": "image_1338.jpg",
-      "width": 1024,
-      "height": 1024,
+      "width": 512,
+      "height": 512,
       "annotations": [
         {
-          "class_id": 2,
-          "class_name": "miecz",
+          "class_id": 3,
+          "class_name": "srub",
           "bbox": [
-            168,
-            189,
-            557,
-            763
+            96,
+            272,
+            164,
+            121
           ],
-          "rotation_angle": 353
+          "rotation_angle": 309
         }
       ]
     },
     {
       "id": 493,
       "file_name": "image_0494.jpg",
-      "width": 1024,
-      "height": 1024,
+      "width": 512,
+      "height": 512,
       "annotations": [
         {
           "class_id": 1,
           "class_name": "komb",
           "bbox": [
-            171,
-            181,
-            769,
-            541
+            156,
+            124,
+            31,
+            52
           ],
-          "rotation_angle": 86
+          "rotation_angle": 158
         }
       ]
     },
     {
       "id": 118,
       "file_name": "image_0119.jpg",
-      "width": 512,
-      "height": 512,
+      "width": 1024,
+      "height": 1024,
       "annotations": [
         {
           "class_id": 3,
           "class_name": "srub",
           "bbox": [
-            63,
-            56,
-            387,
-            412
+            750,
+            354,
+            128,
+            16
           ],
-          "rotation_angle": 144
+          "rotation_angle": 270
         }
       ]
     },
     {
       "id": 490,
       "file_name": "image_0491.jpg",
-      "width": 224,
-      "height": 224,
-      "annotations": [
-        {
-          "class_id": 3,
-          "class_name": "srub",
-          "bbox": [
-            28,
-            108,
-            18,
-            23
-          ],
-          "rotation_angle": 346
-        }
-      ]
-    },
-    {
-      "id": 629,
-      "file_name": "image_0630.jpg",
       "width": 512,
       "height": 512,
       "annotations": [
@@ -4950,12 +4931,31 @@
           "class_id": 2,
           "class_name": "miecz",
           "bbox": [
-            145,
-            84,
-            236,
-            290
+            60,
+            171,
+            107,
+            89
           ],
-          "rotation_angle": 162
+          "rotation_angle": 131
+        }
+      ]
+    },
+    {
+      "id": 629,
+      "file_name": "image_0630.jpg",
+      "width": 1024,
+      "height": 1024,
+      "annotations": [
+        {
+          "class_id": 3,
+          "class_name": "srub",
+          "bbox": [
+            390,
+            570,
+            371,
+            224
+          ],
+          "rotation_angle": 88
         }
       ]
     },
@@ -4969,31 +4969,31 @@
           "class_id": 1,
           "class_name": "komb",
           "bbox": [
+            312,
             329,
-            357,
-            94,
-            122
+            82,
+            89
           ],
-          "rotation_angle": 347
+          "rotation_angle": 226
         }
       ]
     },
     {
       "id": 229,
       "file_name": "image_0230.jpg",
-      "width": 224,
-      "height": 224,
+      "width": 1024,
+      "height": 1024,
       "annotations": [
         {
-          "class_id": 1,
-          "class_name": "komb",
+          "class_id": 3,
+          "class_name": "srub",
           "bbox": [
-            84,
-            64,
-            108,
-            120
+            262,
+            644,
+            434,
+            137
           ],
-          "rotation_angle": 30
+          "rotation_angle": 261
         }
       ]
     },
@@ -5004,72 +5004,72 @@
       "height": 512,
       "annotations": [
         {
-          "class_id": 2,
-          "class_name": "miecz",
+          "class_id": 3,
+          "class_name": "srub",
           "bbox": [
-            293,
-            11,
-            150,
-            164
+            166,
+            101,
+            97,
+            289
           ],
-          "rotation_angle": 213
+          "rotation_angle": 349
         }
       ]
     },
     {
       "id": 1000,
       "file_name": "image_1001.jpg",
-      "width": 512,
-      "height": 512,
+      "width": 1024,
+      "height": 1024,
       "annotations": [
         {
-          "class_id": 2,
-          "class_name": "miecz",
+          "class_id": 3,
+          "class_name": "srub",
           "bbox": [
-            69,
-            208,
-            198,
-            155
+            697,
+            546,
+            123,
+            55
           ],
-          "rotation_angle": 104
+          "rotation_angle": 118
         }
       ]
     },
     {
       "id": 663,
       "file_name": "image_0664.jpg",
-      "width": 1024,
-      "height": 1024,
+      "width": 512,
+      "height": 512,
       "annotations": [
         {
-          "class_id": 2,
-          "class_name": "miecz",
+          "class_id": 1,
+          "class_name": "komb",
           "bbox": [
-            312,
-            128,
-            582,
-            564
+            216,
+            28,
+            131,
+            260
           ],
-          "rotation_angle": 320
+          "rotation_angle": 162
         }
       ]
     },
     {
       "id": 1226,
       "file_name": "image_1227.jpg",
-      "width": 1024,
-      "height": 1024,
+      "width": 512,
+      "height": 512,
       "annotations": [
         {
-          "class_id": 1,
-          "class_name": "komb",
+          "class_id": 3,
+          "class_name": "srub",
           "bbox": [
-            79,
-            117,
-            784,
-            842
+            332,
+            54,
+            43,
+            316
           ],
-          "rotation_angle": 145
+          "rotation_angle": 2
         }
       ]
     },
@@ -5083,31 +5083,31 @@
           "class_id": 3,
           "class_name": "srub",
           "bbox": [
-            100,
-            10,
-            321,
-            457
+            0,
+            209,
+            199,
+            125
           ],
-          "rotation_angle": 4
+          "rotation_angle": 61
         }
       ]
     },
     {
       "id": 1086,
       "file_name": "image_1087.jpg",
-      "width": 224,
-      "height": 224,
+      "width": 1024,
+      "height": 1024,
       "annotations": [
         {
-          "class_id": 2,
-          "class_name": "miecz",
+          "class_id": 3,
+          "class_name": "srub",
           "bbox": [
-            92,
-            23,
-            128,
-            171
+            807,
+            554,
+            58,
+            96
           ],
-          "rotation_angle": 351
+          "rotation_angle": 164
         }
       ]
     },
@@ -5118,53 +5118,53 @@
       "height": 512,
       "annotations": [
         {
-          "class_id": 1,
-          "class_name": "komb",
+          "class_id": 2,
+          "class_name": "miecz",
           "bbox": [
-            135,
-            222,
-            152,
-            148
+            204,
+            299,
+            62,
+            35
           ],
-          "rotation_angle": 229
+          "rotation_angle": 250
         }
       ]
     },
     {
       "id": 330,
       "file_name": "image_0331.jpg",
-      "width": 1024,
-      "height": 1024,
+      "width": 512,
+      "height": 512,
       "annotations": [
         {
-          "class_id": 3,
-          "class_name": "srub",
+          "class_id": 2,
+          "class_name": "miecz",
           "bbox": [
-            766,
-            842,
-            123,
-            165
+            117,
+            431,
+            195,
+            23
           ],
-          "rotation_angle": 171
+          "rotation_angle": 94
         }
       ]
     },
     {
       "id": 765,
       "file_name": "image_0766.jpg",
-      "width": 1024,
-      "height": 1024,
+      "width": 512,
+      "height": 512,
       "annotations": [
         {
           "class_id": 1,
           "class_name": "komb",
           "bbox": [
-            92,
-            121,
-            790,
-            901
+            132,
+            281,
+            46,
+            33
           ],
-          "rotation_angle": 27
+          "rotation_angle": 243
         }
       ]
     },
@@ -5178,50 +5178,50 @@
           "class_id": 3,
           "class_name": "srub",
           "bbox": [
-            109,
-            89,
-            397,
-            348
+            0,
+            150,
+            229,
+            90
           ],
-          "rotation_angle": 297
+          "rotation_angle": 95
         }
       ]
     },
     {
       "id": 1415,
       "file_name": "image_1416.jpg",
-      "width": 512,
-      "height": 512,
+      "width": 1024,
+      "height": 1024,
       "annotations": [
         {
           "class_id": 1,
           "class_name": "komb",
           "bbox": [
-            63,
-            365,
-            157,
-            122
+            344,
+            123,
+            373,
+            368
           ],
-          "rotation_angle": 103
+          "rotation_angle": 132
         }
       ]
     },
     {
       "id": 1358,
       "file_name": "image_1359.jpg",
-      "width": 224,
-      "height": 224,
+      "width": 512,
+      "height": 512,
       "annotations": [
         {
-          "class_id": 3,
-          "class_name": "srub",
+          "class_id": 2,
+          "class_name": "miecz",
           "bbox": [
-            183,
-            107,
-            38,
-            33
+            406,
+            111,
+            18,
+            40
           ],
-          "rotation_angle": 247
+          "rotation_angle": 191
         }
       ]
     },
@@ -5232,15 +5232,15 @@
       "height": 512,
       "annotations": [
         {
-          "class_id": 3,
-          "class_name": "srub",
+          "class_id": 1,
+          "class_name": "komb",
           "bbox": [
-            111,
-            230,
-            344,
-            229
+            33,
+            101,
+            253,
+            204
           ],
-          "rotation_angle": 90
+          "rotation_angle": 126
         }
       ]
     },
@@ -5251,34 +5251,34 @@
       "height": 512,
       "annotations": [
         {
-          "class_id": 1,
-          "class_name": "komb",
+          "class_id": 2,
+          "class_name": "miecz",
           "bbox": [
-            32,
-            237,
-            243,
-            215
+            399,
+            145,
+            37,
+            170
           ],
-          "rotation_angle": 298
+          "rotation_angle": 190
         }
       ]
     },
     {
       "id": 1280,
       "file_name": "image_1281.jpg",
-      "width": 512,
-      "height": 512,
+      "width": 224,
+      "height": 224,
       "annotations": [
         {
           "class_id": 3,
           "class_name": "srub",
           "bbox": [
-            142,
-            133,
-            363,
-            318
+            132,
+            38,
+            40,
+            66
           ],
-          "rotation_angle": 63
+          "rotation_angle": 172
         }
       ]
     },
@@ -5289,40 +5289,21 @@
       "height": 1024,
       "annotations": [
         {
-          "class_id": 3,
-          "class_name": "srub",
+          "class_id": 2,
+          "class_name": "miecz",
           "bbox": [
-            115,
-            51,
-            837,
-            912
+            686,
+            132,
+            180,
+            75
           ],
-          "rotation_angle": 147
+          "rotation_angle": 291
         }
       ]
     },
     {
       "id": 1039,
       "file_name": "image_1040.jpg",
-      "width": 512,
-      "height": 512,
-      "annotations": [
-        {
-          "class_id": 3,
-          "class_name": "srub",
-          "bbox": [
-            381,
-            126,
-            69,
-            49
-          ],
-          "rotation_angle": 95
-        }
-      ]
-    },
-    {
-      "id": 365,
-      "file_name": "image_0366.jpg",
       "width": 1024,
       "height": 1024,
       "annotations": [
@@ -5330,31 +5311,50 @@
           "class_id": 2,
           "class_name": "miecz",
           "bbox": [
-            125,
-            158,
-            576,
-            666
+            293,
+            72,
+            264,
+            370
           ],
-          "rotation_angle": 155
+          "rotation_angle": 35
+        }
+      ]
+    },
+    {
+      "id": 365,
+      "file_name": "image_0366.jpg",
+      "width": 512,
+      "height": 512,
+      "annotations": [
+        {
+          "class_id": 1,
+          "class_name": "komb",
+          "bbox": [
+            348,
+            191,
+            121,
+            49
+          ],
+          "rotation_angle": 82
         }
       ]
     },
     {
       "id": 1025,
       "file_name": "image_1026.jpg",
-      "width": 1024,
-      "height": 1024,
+      "width": 512,
+      "height": 512,
       "annotations": [
         {
-          "class_id": 3,
-          "class_name": "srub",
+          "class_id": 2,
+          "class_name": "miecz",
           "bbox": [
-            170,
-            265,
-            642,
-            720
+            112,
+            216,
+            133,
+            230
           ],
-          "rotation_angle": 331
+          "rotation_angle": 28
         }
       ]
     },
@@ -5365,15 +5365,15 @@
       "height": 1024,
       "annotations": [
         {
-          "class_id": 1,
-          "class_name": "komb",
+          "class_id": 3,
+          "class_name": "srub",
           "bbox": [
-            24,
-            367,
-            133,
-            141
+            941,
+            579,
+            30,
+            33
           ],
-          "rotation_angle": 144
+          "rotation_angle": 39
         }
       ]
     },
@@ -5387,12 +5387,12 @@
           "class_id": 3,
           "class_name": "srub",
           "bbox": [
-            170,
-            150,
-            466,
-            594
+            557,
+            304,
+            84,
+            66
           ],
-          "rotation_angle": 346
+          "rotation_angle": 245
         }
       ]
     },
@@ -5403,15 +5403,15 @@
       "height": 512,
       "annotations": [
         {
-          "class_id": 1,
-          "class_name": "komb",
+          "class_id": 3,
+          "class_name": "srub",
           "bbox": [
-            65,
-            144,
-            425,
-            364
+            79,
+            178,
+            59,
+            263
           ],
-          "rotation_angle": 246
+          "rotation_angle": 172
         }
       ]
     },
@@ -5425,50 +5425,50 @@
           "class_id": 3,
           "class_name": "srub",
           "bbox": [
-            181,
-            363,
-            30,
-            40
+            43,
+            303,
+            48,
+            87
           ],
-          "rotation_angle": 351
+          "rotation_angle": 33
         }
       ]
     },
     {
       "id": 890,
       "file_name": "image_0891.jpg",
-      "width": 512,
-      "height": 512,
+      "width": 1024,
+      "height": 1024,
       "annotations": [
         {
-          "class_id": 2,
-          "class_name": "miecz",
+          "class_id": 3,
+          "class_name": "srub",
           "bbox": [
-            176,
-            24,
-            191,
-            279
+            739,
+            801,
+            211,
+            32
           ],
-          "rotation_angle": 2
+          "rotation_angle": 93
         }
       ]
     },
     {
       "id": 601,
       "file_name": "image_0602.jpg",
-      "width": 512,
-      "height": 512,
+      "width": 1024,
+      "height": 1024,
       "annotations": [
         {
-          "class_id": 3,
-          "class_name": "srub",
+          "class_id": 2,
+          "class_name": "miecz",
           "bbox": [
-            186,
-            101,
-            76,
-            79
+            100,
+            211,
+            85,
+            401
           ],
-          "rotation_angle": 321
+          "rotation_angle": 190
         }
       ]
     }

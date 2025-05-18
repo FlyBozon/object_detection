@@ -7,6 +7,10 @@ test_set/
 nn_dataset/
 augmented_dataset/
 objects/
+runs/
+yolo_output/
+yolo_env/
+yolo8s.pt
 
 # Byte-compiled / optimized / DLL files
 __pycache__/

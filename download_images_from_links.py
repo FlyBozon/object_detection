@@ -1,5 +1,4 @@
 #code to download images for lab testing set
-# git commit -m "added script to run everything for dataset from terminal at once, modified the way of creating dataset"
 
 import os
 import requests
