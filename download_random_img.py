@@ -25,4 +25,4 @@ def download_random_images(count=50, width=256, height=256, save_dir='random_ima
         except Exception as e:
             print(f'Error downloading image {current_image}: {e}')
 
-download_random_images(count=50, width=1024, height=1024)
+download_random_images(count=50, width=512, height=512)

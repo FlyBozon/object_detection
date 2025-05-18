@@ -3,6 +3,10 @@ random_images/
 dataset/
 for_dataset1/
 for_dataset/
+test_set/
+nn_dataset/
+augmented_dataset/
+objects/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
