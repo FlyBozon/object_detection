@@ -1,6 +1,10 @@
-names:
-  0: object
 path: /home/flybozon/object_detection/nn_dataset
-test: test/images
 train: train/images
 val: val/images
+test: test/images
+
+# Class names
+names:
+  0: komb
+  1: miecz
+  2: srub

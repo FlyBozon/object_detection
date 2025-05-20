@@ -1,16 +1,26 @@
 #my folders
-random_images/
-dataset/
-for_dataset1/
-for_dataset/
-test_set/
-nn_dataset/
-augmented_dataset/
-objects/
-runs/
-yolo_output/
-yolo_env/
+random_images/*
+dataset/*
+for_dataset1/*
+for_dataset/*
+test_set/*
+nn_dataset/*
+augmented_dataset/*
+objects/*
+runs/*
+yolo_output/*
+yolo_env/*
 yolo8s.pt
+additional_train.py
+training.py
+data.yaml
+grad_cam.py
+nn_dataset.zip
+yolo_tags.py
+models/*
+predictions/*
+output/*
+
 
 # Byte-compiled / optimized / DLL files
 __pycache__/

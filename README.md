@@ -30,3 +30,7 @@ Then lets move to training a nn. We would use YOLO (you only look once) for that
 2. Install the clearml package: `pip install clearml`
 3. Configure ClearML: `clearml-init`
 4. Use instruction from their page, generate and paste credentials to the terminal
+
+### NN visualization using Netron
+`pip install netron`
+then run `netron your_network.pt` that would open your network in browser

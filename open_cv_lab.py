@@ -1,3 +1,5 @@
+#lab OpenCV with removing background for objects
+
 import os
 import sys
 import glob
